@@ -196,19 +196,18 @@
       (Path "Outputs")
       (Path "Logs")
       (Select "Design Resources"
-         "c:\users\kevin\desktop\carpetas\archivos de la u\clases\7mo semestre\electronica 2 victor\pcie11414_kevinflores\pci11414_kevin flores\pci11414_kevin flores.dsn"
-         "PCIe Switch" "P7 DOWNSTREAM PORTS"))
+         "c:\users\kevin\desktop\carpetas\archivos de la u\clases\7mo semestre\electronica 2 victor\pcie11414_kevinflores\pci11414_kevin flores\pci11414_kevin flores.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 229 0 559"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 559"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 995 24 577")
-        (Scroll "-135 -5")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1024 24 577")
+        (Scroll "-149 -5")
         (Zoom "71")
         (Occurrence "/"))
       (Path
@@ -218,8 +217,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 995 24 577")
-        (Scroll "-135 -5")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1024 24 577")
+        (Scroll "-149 -5")
         (Zoom "71")
         (Occurrence "/"))
       (Path
@@ -229,8 +228,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 995 24 577")
-        (Scroll "400 0")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1024 24 577")
+        (Scroll "361 0")
         (Zoom "140")
         (Occurrence "/"))
       (Path
@@ -240,9 +239,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 995 24 577")
-        (Scroll "433 212")
-        (Zoom "208")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1024 24 577")
+        (Scroll "-98 -8")
+        (Zoom "52")
         (Occurrence "/"))
       (Path
          "C:\USERS\KEVIN\DESKTOP\CARPETAS\ARCHIVOS DE LA U\CLASES\7MO SEMESTRE\ELECTRONICA 2 VICTOR\PCIE11414_KEVINFLORES\PCI11414_KEVIN FLORES\PCI11414_KEVIN FLORES.DSN")
@@ -251,9 +250,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 995 24 577")
-        (Scroll "3 494")
-        (Zoom "132")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1024 24 577")
+        (Scroll "-160 -10")
+        (Zoom "33")
         (Occurrence "/"))
       (Path
          "C:\USERS\KEVIN\DESKTOP\CARPETAS\ARCHIVOS DE LA U\CLASES\7MO SEMESTRE\ELECTRONICA 2 VICTOR\PCIE11414_KEVINFLORES\PCI11414_KEVIN FLORES\PCI11414_KEVIN FLORES.DSN")
@@ -262,8 +261,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 995 24 577")
-        (Scroll "-84 -8")
+        (Placement "44 0 1 -1 -1 5 24 5 1024 24 577")
+        (Scroll "-98 -8")
         (Zoom "52")
         (Occurrence "/"))
       (Path
@@ -273,9 +272,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 995 24 577")
-        (Scroll "-146 -10")
-        (Zoom "33")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1024 24 577")
+        (Scroll "-150 -2")
+        (Zoom "34")
         (Occurrence "/"))
       (Path
          "C:\USERS\KEVIN\DESKTOP\CARPETAS\ARCHIVOS DE LA U\CLASES\7MO SEMESTRE\ELECTRONICA 2 VICTOR\PCIE11414_KEVINFLORES\PCI11414_KEVIN FLORES\PCI11414_KEVIN FLORES.DSN")
@@ -284,8 +283,8 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 995 24 577")
-        (Scroll "400 487")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1024 24 577")
+        (Scroll "361 477")
         (Zoom "140")
         (Occurrence "/"))
       (Path
@@ -295,9 +294,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 995 24 577")
-        (Scroll "-146 -10")
-        (Zoom "33")
+        (Placement "44 0 1 -1 -1 5 24 5 1024 24 577")
+        (Scroll "-150 -2")
+        (Zoom "34")
         (Occurrence "/"))
       (Path
          "C:\USERS\KEVIN\DESKTOP\CARPETAS\ARCHIVOS DE LA U\CLASES\7MO SEMESTRE\ELECTRONICA 2 VICTOR\PCIE11414_KEVINFLORES\PCI11414_KEVIN FLORES\PCI11414_KEVIN FLORES.DSN")
@@ -306,9 +305,9 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 5 995 24 577")
-        (Scroll "-146 -10")
-        (Zoom "33")
+        (Placement "44 0 1 -1 -1 -1 -1 5 1024 24 577")
+        (Scroll "-150 -2")
+        (Zoom "34")
         (Occurrence "/"))
       (Path
          "C:\USERS\KEVIN\DESKTOP\CARPETAS\ARCHIVOS DE LA U\CLASES\7MO SEMESTRE\ELECTRONICA 2 VICTOR\PCIE11414_KEVINFLORES\PCI11414_KEVIN FLORES\PCI11414_KEVIN FLORES.DSN")
