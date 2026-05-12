@@ -37,10 +37,8 @@ La arquitectura del circuito se fundamenta en el switch **PCI11414**, que funcio
 Para garantizar la estabilidad del sistema, se implementó una arquitectura de potencia de cuatro etapas que regula la entrada principal de **12V** hacia los rieles de **5V**, **3.3V**, **2.5V** y **1.1V** requeridos por los distintos núcleos del switch y el PHY de red. La integridad de la señal se mantiene mediante un buffer de reloj especializado y un cristal de **25 MHz** para la sincronización de datos.
 
 ### Diagramas y Documentación Técnica
-> **Nota:** Todos los archivos técnicos, incluyendo las imágenes del esquemático completo y las capturas del diseño de la PCB (capas Top y Bottom), se encuentran disponibles en la carpeta `/[Nombre_de_tu_carpeta]` de este repositorio.
+> **Nota:** Todos los archivos técnicos, incluyendo las imágenes del esquemático completo y las capturas del diseño de la PCB, se encuentran disponibles en la carpeta `/[Design]` de este repositorio.
 
-* **Esquemático:** `[nombre_del_archivo].pdf`
-* **Layout de PCB:** `[nombre_del_archivo].png` o `.pdf`
 
 ## 👨‍💻 Autor
 Kevin Sebastian Flores López - Estudiante de Ingeniería Electrónica y Telecomunicaciones - https://github.com/ksflores-cmyk
