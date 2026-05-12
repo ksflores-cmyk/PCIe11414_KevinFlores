@@ -36,8 +36,5 @@ El diseño se basó en el esquemático de referencia de la tarjeta de evaluació
 
 > **Nota:** Puedes ver los archivos fuente del diseño en la carpeta `PCI11414_Kevin Flores` de este repositorio.
 
-## 🚀 Funcionamiento y Pruebas
-[Describe cómo funciona el proyecto una vez encendido o ejecutado. ¿Qué señales entran? ¿Qué procesamiento ocurre? ¿Qué se obtiene a la salida?]
-
 ## 👨‍💻 Autor
 Kevin Sebastian Flores López - Estudiante de Ingeniería Electrónica y Telecomunicaciones - https://github.com/ksflores-cmyk
