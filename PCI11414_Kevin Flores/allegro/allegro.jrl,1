@@ -1,0 +1,578 @@
+\t (00:00:01) allegro 25.1 S020 (4396590) [2/5/2026] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Mon May 11 21:15:47 2026
+\t (00:00:01)         Host=KEVIN User=Kevin Pid=23780 CPUs=16
+\t (00:00:01) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\allegro.exe -mpssession Kevin -proj c:\users\kevin\desktop\carpetas\archivos de la u\clases\7mo semestre\electronica 2 victor\parcial 4\pci11414_kevin flores\pci11414_kevin flores.opj C:/Users/Kevin/Desktop/Carpetas/Archivos de la U/Clases/7mo semestre/Electronica 2 Victor/PARCIAL 4/PCI11414_Kevin Flores/allegro/PCI11414_KEVIN FLORES.brd
+\t (00:00:01) 
+\t (00:00:01) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "PCI11414_KEVIN FLORES"
+\d (00:00:02) Design opened: C:/Users/Kevin/Desktop/Carpetas/Archivos de la U/Clases/7mo semestre/Electronica 2 Victor/PARCIAL 4/PCI11414_Kevin Flores/allegro/PCI11414_KEVIN FLORES.brd
+\i (00:00:02) trapsize 10479
+\i (00:00:02) trapsize 10858
+\i (00:00:02) trapsize 10479
+\i (00:00:03) trapsize 9211
+\i (00:00:03) trapsize 12006
+\t (00:00:03) > Sending response DoneOpenBoard
+\i (00:00:05) updateport SearchPane
+\i (00:00:05) updateport CVPane
+\i (00:00:05) shapeedit 
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 14478.81 6771.19
+\t (00:00:06) Loading consmgr.cxt 
+\t (00:00:06) Loading acns_formula.cxt 
+\i (00:00:06) trapsize 12006
+\i (00:00:06) zoom out 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom out 14478.81 6771.19
+\i (00:00:06) trapsize 12006
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 17672.32 6723.16
+\i (00:00:07) trapsize 6003
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 16149.72 6723.16
+\i (00:00:07) trapsize 3001
+\i (00:00:51) done 
+\i (00:00:51) place manual 
+\w (00:00:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:51) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:51) setwindow form.plc_manual
+\i (00:00:51) FORM plc_manual tree  'Components by refdes' 
+\i (00:00:51) setwindow pcb
+\i (00:00:51) FORM plc_manual placement_list 
+\i (00:00:51) FORM plc_manual categories Components by refdes 
+\i (00:00:51) trapsize 3001
+\i (00:00:51) updateport SearchPane
+\i (00:01:11) setwindow form.plc_manual
+\i (00:01:11) FORM plc_manual tree  U24 'Components by refdes' 
+\i (00:01:11) FORM plc_manual tree 'MULTISEL YES' U24 'Components by refdes' 
+\t (00:01:11) Placing U24 / PCI11414_PCI11414CPMX_PCI11414 / PCI11414CPMX on Top.
+\i (00:01:14) setwindow pcb
+\i (00:01:14) pick grid 14751.06 7155.36
+\t (00:01:14) last pick:  14800.00 7200.00
+\i (00:01:17) setwindow form.plc_manual
+\i (00:01:17) FORM plc_manual cancel  
+\i (00:01:17) setwindow pcb
+\i (00:01:17) updateport SearchPane
+\i (00:01:18) shapeedit 
+\i (00:01:22) done 
+\i (00:01:22) place manual 
+\w (00:01:22) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:22) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:22) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:22) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:01:23) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:23) setwindow form.plc_manual
+\i (00:01:23) FORM plc_manual tree  'Components by refdes' 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) FORM plc_manual placement_list 
+\i (00:01:23) FORM plc_manual categories Components by refdes 
+\i (00:01:23) trapsize 3001
+\i (00:01:23) updateport SearchPane
+\i (00:01:33) refdes U24 
+\t (00:01:33) Placing U24 / PCI11414_PCI11414CPMX_PCI11414 / PCI11414CPMX on Top.
+\i (00:01:33) xname_flush 
+\i (00:01:41) zoom out 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out 15117.23 7257.41
+\i (00:01:41) trapsize 6003
+\i (00:01:41) zoom out 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom out 14084.75 7257.41
+\i (00:01:41) trapsize 12006
+\i (00:01:41) zoom in 1 
+\i (00:01:41) setwindow pcb
+\i (00:01:41) zoom in 13494.35 9004.24
+\i (00:01:42) trapsize 6003
+\i (00:01:42) zoom in 1 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) zoom in 13494.35 9004.24
+\i (00:01:42) trapsize 3001
+\i (00:01:42) zoom in 1 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) zoom in 13494.36 9004.24
+\i (00:01:42) trapsize 1501
+\i (00:01:42) zoom out 1 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) zoom out 13494.36 9004.24
+\i (00:01:42) trapsize 3001
+\i (00:01:42) zoom out 1 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) zoom out 13494.37 9004.24
+\i (00:01:42) trapsize 6003
+\i (00:01:42) zoom in 1 
+\i (00:01:42) setwindow pcb
+\i (00:01:42) zoom in 13494.36 9004.24
+\i (00:01:42) trapsize 3001
+\i (00:01:43) zoom in 1 
+\i (00:01:43) setwindow pcb
+\i (00:01:43) zoom in 13494.37 9004.24
+\i (00:01:43) trapsize 1501
+\i (00:01:50) zoom out 1 
+\i (00:01:50) setwindow pcb
+\i (00:01:50) zoom out 13557.40 9172.32
+\i (00:01:50) trapsize 3001
+\i (00:01:51) zoom in 1 
+\i (00:01:51) setwindow pcb
+\i (00:01:51) zoom in 13815.53 9022.25
+\i (00:01:51) trapsize 1501
+\i (00:01:52) pick grid 13815.53 9022.25
+\t (00:01:52) last pick:  13800.00 9000.00
+\i (00:01:53) pick grid 13761.51 8454.99
+\t (00:01:53) last pick:  13800.00 8500.00
+\i (00:01:54) prepopup 13752.50 8476.00
+\i (00:01:54) done 
+\i (00:01:55) updateport SearchPane
+\i (00:01:55) shapeedit 
+\i (00:01:56) undo 
+\i (00:01:57) trapsize 3001
+\i (00:01:57) updateport SearchPane
+\i (00:01:57) shapeedit 
+\i (00:02:13) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:02:13) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:02:13) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:02:13) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:02:13) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:02:14) drag_start grid 12373.94 8548.02
+\i (00:02:15) drag_stop 18106.64 5534.60
+\i (00:02:16) drag_start grid 17980.58 5480.58
+\i (00:02:17) drag_stop 12475.99 8638.06
+\i (00:02:17) pick grid 12596.05 8734.11
+\t (00:02:17) last pick:  12600.00 8700.00
+\i (00:02:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:02:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:02:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:02:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:02:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:02:18) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:19:58) setwindow form.mini
+\i (00:19:58) FORM mini class 'BOARD GEOMETRY' 
+\i (00:20:02) FORM mini subclass DESIGN_OUTLINE 
+\i (00:20:02) setwindow pcb
+\i (00:20:02) updateport CVPane
+\i (00:20:36) prmed 
+\t (00:20:36) [21:36:22.106153] Periodic Lic check successful
+[21:36:22.106171] Feature usage summary:
+[21:36:22.106171] OrCAD_X_PCB_Professional_Plus  
+[21:36:22.106176] OrCAD_X_Professional_Plus  
+\i (00:20:44) setwindow form.prmedit
+\i (00:20:44) FORM prmedit design  
+\i (00:20:48) FORM prmedit units Millimeter 
+\w (00:20:48) Accuracy or unit changes can cause design round-off issues. DRCs and physical changes should be checked.
+\i (00:20:50) fillin confirm
+\e (00:20:50) Change may cause round-off; run dbcheck.
+\i (00:20:53) FORM prmedit display  
+\i (00:20:57) FORM prmedit display_plated_holes YES 
+\i (00:20:59) FORM prmedit display_non_plated_holes YES 
+\i (00:21:02) FORM prmedit apply  
+\w (00:21:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:21:02) setwindow pcb
+\i (00:21:02) trapsize 7624
+\i (00:21:03) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:21:03) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (00:21:03) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:21:03) Performing DRC...
+\t (00:21:03) Multithreaded DRC update (16 threads).
+\t (00:21:04) No DRC errors detected.
+\i (00:21:04) setwindow form.prmedit
+\i (00:21:04) FORM prmedit done  
+\i (00:21:04) setwindow pcb
+\i (00:21:04) updateport SearchPane
+\i (00:21:04) shapeedit 
+\i (00:21:04) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:21:04) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:21:04) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:21:04) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:21:05) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:21:25) chg origin 
+\t (00:21:25) Pick new location for drawing origin.
+\i (00:21:30) pick grid 381.6907 182.6611
+\t (00:21:30) last pick:  381.0000 182.8800
+\i (00:21:30) trapsize 7624
+\t (00:21:30) Pick point (381.0000 182.8800) changed to origin (0.0000, 0.0000)
+\i (00:21:31) shapeedit 
+\i (00:32:50) define grid 
+\t (00:32:50) [21:48:36.034250] Periodic Lic check successful
+[21:48:36.034272] Feature usage summary:
+[21:48:36.034272] OrCAD_X_PCB_Professional_Plus  
+[21:48:36.034273] OrCAD_X_Professional_Plus  
+\t (00:32:50) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:33:49) setwindow form.grid
+\i (00:33:49) FORM grid non_etch non_etch_x_grids 1 
+\i (00:33:50) FORM grid non_etch non_etch_y_grids 1 
+\i (00:33:57) FORM grid all_etch all_etch_x_grids 1 
+\i (00:33:57) FORM grid all_etch all_etch_y_grids 1 
+\i (00:34:07) FORM grid apply  
+\i (00:34:08) FORM grid done  
+\i (00:34:08) setwindow pcb
+\i (00:34:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:34:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:35:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:35:18) pick grid 13.9557 -23.2421
+\t (00:35:18) last pick:  14.0000 -23.0000
+\i (00:35:20) drag_start grid 28.2881 -4.0307
+\i (00:35:21) drag_stop -7.3903 9.6918
+\i (00:35:27) drag_start grid -0.0717 0.2385
+\i (00:35:28) drag_stop 28.5930 13.9610
+\i (00:35:29) zoom in 1 
+\i (00:35:29) setwindow pcb
+\i (00:35:29) zoom in 4.3500 1.9157
+\i (00:35:29) trapsize 3812
+\i (00:35:30) zoom in 1 
+\i (00:35:30) setwindow pcb
+\i (00:35:30) zoom in 4.1214 1.6870
+\i (00:35:30) trapsize 1906
+\i (00:35:31) zoom in 1 
+\i (00:35:31) setwindow pcb
+\i (00:35:31) zoom in 0.0428 -0.2189
+\i (00:35:31) trapsize 953
+\i (00:35:32) zoom out 1 
+\i (00:35:32) setwindow pcb
+\i (00:35:32) zoom out 4.4835 0.5244
+\i (00:35:32) trapsize 1906
+\i (00:35:32) zoom out 1 
+\i (00:35:32) setwindow pcb
+\i (00:35:32) zoom out 5.4746 0.6006
+\i (00:35:32) trapsize 3812
+\i (00:35:36) zoom in 1 
+\i (00:35:36) setwindow pcb
+\i (00:35:36) zoom in 5.3985 -1.5339
+\i (00:35:36) trapsize 1906
+\i (00:35:36) zoom out 1 
+\i (00:35:36) setwindow pcb
+\i (00:35:36) zoom out 9.0959 2.0873
+\i (00:35:36) trapsize 3812
+\i (00:35:36) zoom out 1 
+\i (00:35:36) setwindow pcb
+\i (00:35:36) zoom out 14.1276 5.8992
+\i (00:35:36) trapsize 7624
+\i (00:35:39) zoom out 1 
+\i (00:35:39) setwindow pcb
+\i (00:35:39) zoom out 32.2718 19.1643
+\i (00:35:39) trapsize 15247
+\i (00:35:39) zoom in 1 
+\i (00:35:39) setwindow pcb
+\i (00:35:39) zoom in 44.7744 42.6449
+\i (00:35:39) trapsize 7624
+\i (00:35:40) zoom in 1 
+\i (00:35:40) setwindow pcb
+\i (00:35:40) zoom in 44.1645 42.3400
+\i (00:35:40) trapsize 3812
+\i (00:35:40) zoom out 1 
+\i (00:35:40) setwindow pcb
+\i (00:35:40) zoom out 40.3527 28.0839
+\i (00:35:40) trapsize 7624
+\i (00:35:41) zoom out 1 
+\i (00:35:41) setwindow pcb
+\i (00:35:41) zoom out -40.6098 -2.1055
+\i (00:35:41) trapsize 15247
+\i (00:35:42) zoom in 1 
+\i (00:35:42) setwindow pcb
+\i (00:35:42) zoom in 104.2189 40.8916
+\i (00:35:42) trapsize 7624
+\i (00:35:45) drag_start grid -0.0717 0.3342
+\i (00:35:49) drag_stop 92.6311 65.7445
+\i (00:36:27) shape add rect 
+\i (00:40:43) pick grid -0.0717 -0.2757
+\t (00:40:43) last pick:  0.0000 0.0000
+\i (00:40:55) zoom out 1 
+\i (00:40:55) setwindow pcb
+\t (00:40:55) [21:56:41.426395] Periodic Lic check successful
+[21:56:41.426416] Feature usage summary:
+[21:56:41.426417] OrCAD_X_PCB_Professional_Plus  
+[21:56:41.426418] OrCAD_X_Professional_Plus  
+\i (00:40:55) zoom out 113.6722 27.7791
+\i (00:40:55) trapsize 15247
+\i (00:40:58) zoom out 1 
+\i (00:40:58) setwindow pcb
+\i (00:40:58) zoom out 109.0981 26.5593
+\i (00:40:58) trapsize 30494
+\t (00:41:19) last pick:  199.6124 119.6240
+\w (00:41:19) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:41:32) last pick:  200.2223 119.6240
+\w (00:41:32) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:41:32) last pick:  200.2223 119.6240
+\w (00:41:32) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:41:42) last pick:  198.3927 119.6240
+\w (00:41:42) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:41:44) zoom in 1 
+\i (00:41:44) setwindow pcb
+\i (00:41:44) zoom in 197.7828 119.6240
+\i (00:41:44) trapsize 15247
+\i (00:41:46) zoom out 1 
+\i (00:41:46) setwindow pcb
+\i (00:41:46) zoom out 129.8342 64.4292
+\i (00:41:46) trapsize 30494
+\i (00:41:47) zoom in 1 
+\i (00:41:47) setwindow pcb
+\i (00:41:47) zoom in 279.5076 55.5858
+\i (00:41:47) trapsize 15247
+\i (00:41:47) zoom out 1 
+\i (00:41:47) setwindow pcb
+\i (00:41:47) zoom out 135.9331 56.5006
+\i (00:41:47) trapsize 30494
+\i (00:41:48) zoom out 1 
+\i (00:41:48) setwindow pcb
+\i (00:41:48) zoom out 270.9692 93.3988
+\i (00:41:48) trapsize 30494
+\i (00:41:48) zoom out 1 
+\i (00:41:48) setwindow pcb
+\i (00:41:48) zoom out 270.9692 93.3988
+\i (00:41:48) trapsize 30494
+\i (00:41:49) zoom out 1 
+\i (00:41:49) setwindow pcb
+\i (00:41:49) zoom out 40.4319 51.3166
+\i (00:41:49) trapsize 30494
+\i (00:41:49) zoom out 1 
+\i (00:41:49) setwindow pcb
+\i (00:41:49) zoom out 37.3825 47.6573
+\i (00:41:49) trapsize 30494
+\i (00:41:49) zoom in 1 
+\i (00:41:49) setwindow pcb
+\i (00:41:49) zoom in 159.3599 56.1957
+\i (00:41:50) trapsize 15247
+\i (00:41:50) zoom out 1 
+\i (00:41:50) setwindow pcb
+\i (00:41:50) zoom out 136.2380 63.5144
+\i (00:41:50) trapsize 30494
+\i (00:41:50) zoom out 1 
+\i (00:41:50) setwindow pcb
+\i (00:41:50) zoom out 280.7274 70.2231
+\i (00:41:50) trapsize 30494
+\i (00:41:50) zoom out 1 
+\i (00:41:50) setwindow pcb
+\i (00:41:50) zoom out 279.5076 69.0033
+\i (00:41:50) trapsize 30494
+\i (00:41:51) zoom out 1 
+\i (00:41:51) setwindow pcb
+\i (00:41:51) zoom out 278.2879 70.8330
+\i (00:41:51) trapsize 30494
+\i (00:41:51) zoom out 1 
+\i (00:41:51) setwindow pcb
+\i (00:41:51) zoom out 211.2003 78.1516
+\i (00:41:51) trapsize 30494
+\i (00:41:51) zoom out 1 
+\i (00:41:51) setwindow pcb
+\i (00:41:51) zoom out 211.2003 78.1516
+\i (00:41:51) trapsize 30494
+\i (00:41:52) zoom out 1 
+\i (00:41:52) setwindow pcb
+\i (00:41:52) zoom out 166.6785 62.9045
+\i (00:41:52) trapsize 30494
+\i (00:41:52) zoom out 1 
+\i (00:41:52) setwindow pcb
+\i (00:41:52) zoom out 164.8489 62.2946
+\i (00:41:52) trapsize 30494
+\i (00:41:52) zoom out 1 
+\i (00:41:52) setwindow pcb
+\i (00:41:52) zoom out 150.2116 62.9045
+\i (00:41:52) trapsize 30494
+\i (00:41:52) zoom out 1 
+\i (00:41:52) setwindow pcb
+\i (00:41:52) zoom out 84.9537 41.5584
+\i (00:41:52) trapsize 30494
+\i (00:41:52) zoom out 1 
+\i (00:41:52) setwindow pcb
+\i (00:41:52) zoom out 73.9757 40.3386
+\i (00:41:52) trapsize 30494
+\i (00:41:54) zoom in 1 
+\i (00:41:54) setwindow pcb
+\i (00:41:54) zoom in 136.7941 61.0748
+\i (00:41:54) trapsize 15247
+\i (00:41:55) zoom out 1 
+\i (00:41:55) setwindow pcb
+\i (00:41:55) zoom out 91.4113 59.2451
+\i (00:41:55) trapsize 30494
+\i (00:41:55) zoom out 1 
+\i (00:41:55) setwindow pcb
+\i (00:41:55) zoom out 194.7333 56.1957
+\i (00:41:55) trapsize 30494
+\t (00:42:15) last pick:  199.6124 120.2338
+\w (00:42:15) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\t (00:42:17) last pick:  199.6124 120.2338
+\w (00:42:17) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (00:42:17) prepopup 200.2223 120.2338
+\i (00:42:18) done 
+\i (00:42:18) updateport SearchPane
+\i (00:42:18) shapeedit 
+\i (00:42:28) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:42:28) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:42:28) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:42:28) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:42:28) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:42:28) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:42:28) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:43:36) prmed 
+\i (00:43:44) setwindow form.prmedit
+\i (00:43:44) FORM prmedit design  
+\i (00:44:36) FORM prmedit x -100.0000 
+\i (00:44:40) FORM prmedit y -100.0000 
+\i (00:44:47) FORM prmedit width 400.0000 
+\i (00:44:53) FORM prmedit height 300.0000 
+\i (00:45:13) FORM prmedit apply  
+\i (00:45:13) setwindow pcb
+\i (00:45:13) trapsize 21186
+\i (00:45:14) setwindow form.prmedit
+\i (00:45:14) FORM prmedit done  
+\i (00:45:14) setwindow pcb
+\i (00:45:14) shapeedit 
+\i (00:45:15) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:45:15) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:45:15) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:45:15) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:45:15) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:45:16) zoom in 1 
+\i (00:45:16) setwindow pcb
+\i (00:45:16) zoom in -1.2712 -2.9661
+\i (00:45:16) trapsize 10593
+\i (00:45:17) zoom in 1 
+\i (00:45:17) setwindow pcb
+\i (00:45:17) zoom in 1.2712 -1.2711
+\i (00:45:17) trapsize 5297
+\i (00:45:18) zoom in 1 
+\i (00:45:18) setwindow pcb
+\i (00:45:18) zoom in 0.1059 0.1060
+\i (00:45:18) trapsize 2648
+\i (00:45:20) drag_start grid 0.1060 0.0001
+\i (00:45:22) zoom out 1 
+\i (00:45:22) setwindow pcb
+\i (00:45:22) zoom out 41.3666 20.0213
+\i (00:45:22) trapsize 5297
+\i (00:45:24) roam x 16
+\i (00:45:24) roam x 16
+\i (00:45:25) roam x 32
+\i (00:45:25) roam x 32
+\i (00:45:25) roam y -16
+\i (00:45:25) roam y -16
+\i (00:45:26) roam y -16
+\i (00:45:26) roam y -16
+\i (00:45:26) roam y -16
+\i (00:45:26) roam y -16
+\i (00:45:26) roam x 16
+\i (00:45:27) roam y -16
+\i (00:45:27) roam x 16
+\i (00:45:27) roam y -16
+\i (00:45:27) roam x 16
+\i (00:45:28) roam x 16
+\i (00:45:28) roam x 48
+\i (00:45:28) roam x 16
+\i (00:45:31) roam x 16
+\i (00:45:31) roam x 16
+\i (00:45:31) roam x 16
+\i (00:45:31) roam x 16
+\i (00:45:31) roam y -16
+\i (00:45:31) roam y -16
+\i (00:45:32) roam y -16
+\i (00:45:32) roam y -32
+\i (00:45:32) roam x 16
+\i (00:45:32) roam x 16
+\i (00:45:32) roam x 16
+\i (00:45:32) roam x 32
+\i (00:45:33) zoom out 1 
+\i (00:45:33) setwindow pcb
+\i (00:45:33) zoom out 80.8266 33.4748
+\i (00:45:33) trapsize 10593
+\i (00:45:33) zoom out 1 
+\i (00:45:33) setwindow pcb
+\i (00:45:33) zoom out 117.1614 34.3222
+\i (00:45:33) trapsize 21186
+\i (00:45:52) drag_stop 200.8474 119.4915
+\i (00:46:01) define grid 
+\t (00:46:01) [22:01:47.200193] Periodic Lic check successful
+[22:01:47.200211] Feature usage summary:
+[22:01:47.200216] OrCAD_X_PCB_Professional_Plus  
+[22:01:47.200216] OrCAD_X_Professional_Plus  
+\t (00:46:01) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:46:06) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:46:07) setwindow form.grid
+\i (00:46:07) FORM grid apply  
+\i (00:46:08) FORM grid done  
+\i (00:46:08) setwindow pcb
+\i (00:46:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:46:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:46:13) drag_start grid -0.4237 0.4237
+\i (00:46:14) drag_stop 4.6610 27.9661
+\i (00:46:18) shape add rect 
+\i (00:46:29) pick grid 0.0000 0.4237
+\t (00:46:29) last pick:  0.0000 0.0000
+\i (00:46:35) pick grid 199.5762 119.9152
+\t (00:46:35) last pick:  200.0000 120.0000
+\i (00:46:36) prepopup 217.7966 99.5763
+\i (00:46:37) done 
+\i (00:46:37) updateport SearchPane
+\i (00:46:37) shapeedit 
+\i (00:46:38) zoom in 1 
+\i (00:46:38) setwindow pcb
+\i (00:46:38) zoom in 75.4237 71.6102
+\i (00:46:38) trapsize 10593
+\i (00:46:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:46:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:46:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:46:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:46:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:46:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:46:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:46:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:46:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:46:47) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:47:51) setwindow form.mini
+\i (00:47:51) FORM mini class 'PACKAGE KEEPIN' 
+\i (00:48:41) setwindow pcb
+\i (00:48:41) shape add rect 
+\i (00:49:27) pick grid 2.3305 2.3305
+\t (00:49:27) last pick:  2.0000 2.0000
+\i (00:49:40) pick grid 197.6695 118.4322
+\t (00:49:40) last pick:  198.0000 118.0000
+\i (00:49:42) prepopup 197.6695 118.2203
+\i (00:49:42) done 
+\i (00:49:43) updateport SearchPane
+\i (00:49:43) shapeedit 
+\i (00:50:14) setwindow form.mini
+\i (00:50:14) FORM mini class 'ROUTE KEEPIN' 
+\i (00:50:30) setwindow pcb
+\i (00:50:30) pick grid 2.1187 2.3305
+\t (00:50:30) last pick:  2.0000 2.0000
+\i (00:50:30) click shape main 
+\i (00:50:30) updateport SearchPane
+\i (00:50:30) shapeedit 
+\i (00:50:32) pick grid 107.8390 63.5593
+\t (00:50:32) last pick:  108.0000 64.0000
+\i (00:50:35) shape add rect 
+\i (00:50:37) pick grid 1.9068 2.1187
+\t (00:50:37) last pick:  2.0000 2.0000
+\i (00:50:41) pick grid 198.0932 117.5847
+\t (00:50:41) last pick:  198.0000 118.0000
+\i (00:50:42) prepopup 176.0593 110.5932
+\i (00:50:43) done 
+\i (00:50:43) updateport SearchPane
+\i (00:50:43) shapeedit 
+\i (00:51:25) save 
+\t (00:51:25) [22:07:11.351769] Periodic Lic check successful
+[22:07:11.351786] Feature usage summary:
+[22:07:11.351787] OrCAD_X_PCB_Professional_Plus  
+[22:07:11.351787] OrCAD_X_Professional_Plus  
+\i (00:51:26) fillin yes 
+\t (00:51:26) > Sending response DoneOpenBoard
+\i (00:51:26) shapeedit 
+\i (00:51:33) exit 
+\t (00:51:33) Lic Summary:
+[22:07:19.088202] Cdslmd servers:C:\Users\Kevin\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[22:07:19.612754] Feature usage summary:
+[22:07:19.612755] OrCAD_X_PCB_Professional_Plus  
+[22:07:19.612760] OrCAD_X_Professional_Plus  
+\t (00:51:33)     Journal end - Mon May 11 22:07:19 2026

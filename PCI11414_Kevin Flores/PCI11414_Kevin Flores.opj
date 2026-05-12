@@ -1,0 +1,338 @@
+(ExpressProject "PCI11414_Kevin Flores"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "25.1 S020 (4396590)  [2/5/2026]-[05/11/26]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "c:\cadence\orcadx_25.1\tools\capture\library\discrete.olb"
+        (Type "Schematic Library")))
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\pci11414_kevin flores.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Display_Online_DRC_Results "TRUE")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\pci11414_kevin flores.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Layout"
+    (File ".\allegro\pci11414_kevin flores.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\pci11414_kevin flores.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "c:\users\kevin\desktop\carpetas\archivos de la u\clases\7mo semestre\electronica 2 victor\parcial 4\pci11414_kevin flores\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "c:\users\kevin\desktop\carpetas\archivos de la u\clases\7mo semestre\electronica 2 victor\parcial 4\pci11414_kevin flores\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "c:\users\kevin\desktop\carpetas\archivos de la u\clases\7mo semestre\electronica 2 victor\parcial 4\pci11414_kevin flores\allegro\eco.txt"))
+    (File ".\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile
+         "c:\users\kevin\desktop\carpetas\archivos de la u\clases\7mo semestre\electronica 2 victor\parcial 4\pci11414_kevin flores\allegro\genfeed.log")))
+  (MPSSessionName "Kevin")
+  (PartMRUSelector
+    (OFFPAGERT-BI
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CSI.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-L
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (OFFPAGELEFT-R
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VXM7-9013-25M0000000
+      (FullPartName "VXM7-9013-25M0000000.Normal")
+      (LibraryName
+         "C:\USERS\KEVIN\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1778538407\ORCADCAPTUREXML\150-VXM7-9013-25M0000000TR-ND.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (CPF0805B120KE
+      (FullPartName "CPF0805B120KE.Normal")
+      (LibraryName
+         "C:\USERS\KEVIN\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1778534024\CPF0805B120KE\CAPTURE\CPF0805B120KE.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (RC0603FR-0710KL
+      (FullPartName "RC0603FR-0710KL.Normal")
+      (LibraryName
+         "C:\USERS\KEVIN\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1778533438\ORCADCAPTUREXML\311-10.0KHRTR-ND.OLB")
+      (DeviceIndex "0"))
+    (BEAD
+      (FullPartName "BEAD.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND_SIGNAL
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (02013A330JAT2A
+      (FullPartName "02013A330JAT2A.Normal")
+      (LibraryName
+         "C:\USERS\KEVIN\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1778527005\02013A330JAT2A\CAPTURE\02013A330JAT2A.OLB")
+      (DeviceIndex "0"))
+    (08055A150JAT2A
+      (FullPartName "08055A150JAT2A.Normal")
+      (LibraryName
+         "C:\USERS\KEVIN\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1778526757\08055A150JAT2A\CAPTURE\08055A150JAT2A.OLB")
+      (DeviceIndex "0"))
+    (C3216X5R1C106K085AC
+      (FullPartName "C3216X5R1C106K085AC.Normal")
+      (LibraryName
+         "C:\USERS\KEVIN\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1778526610\C3216X5R1C106K085AC\CAPTURE\C3216X5R1C106K085AC.OLB")
+      (DeviceIndex "0"))
+    (CPF0402B110KE
+      (FullPartName "CPF0402B110KE.Normal")
+      (LibraryName
+         "C:\USERS\KEVIN\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1778474262\CPF0402B110KE\CAPTURE\CPF0402B110KE.OLB")
+      (DeviceIndex "0"))
+    (PCI11414C_PMX
+      (FullPartName "PCI11414C_PMX.Normal")
+      (LibraryName
+         "C:\USERS\KEVIN\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1778473541\PCI11414C_PMX\CAPTURE\PCI11414C_PMX.OLB")
+      (DeviceIndex "0"))
+    (PI7C9X3G816GP
+      (FullPartName "PI7C9X3G816GP.Normal")
+      (LibraryName
+         "C:\USERS\KEVIN\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1778472613\PI7C9X3G816GP\CAPTURE\PI7C9X3G816GP.OLB")
+      (DeviceIndex "0"))
+    (PI7C9X3G816GPBHFCE
+      (FullPartName "PI7C9X3G816GPBHFCE.Normal")
+      (LibraryName
+         "C:\USERS\KEVIN\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1778471986\PI7C9X3G816GPBHFCE\CAPTURE\PI7C9X3G816GPBHFCE.OLB")
+      (DeviceIndex "0"))
+    (PCI11414
+      (FullPartName "PCI11414B.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "1"))
+    ("PCIe CHIP_1"
+      (FullPartName "PCIe CHIP_1A.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\PROJECTS\PCIE-NVME\PCIE-NVME.DSN")
+      (DeviceIndex "0"))
+    (SN74LVC1G07DBVT
+      (FullPartName "SN74LVC1G07DBVT.Normal")
+      (LibraryName
+         "C:\USERS\KEVIN\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1778241472\ORCADCAPTUREXML\296-26590-2-ND.OLB")
+      (DeviceIndex "0"))
+    ("CAPACITOR NON-POL"
+      (FullPartName "CAPACITOR NON-POL.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (R
+      (FullPartName "R.Normal")
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (OKR-T6-W12-C
+      (FullPartName "OKR-T6-W12-C.Normal")
+      (LibraryName
+         "C:\USERS\KEVIN\APPDATA\ROAMING\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\UL_PART_1778230275\ORCADCAPTUREXML\811-2179-ND.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\kevin\desktop\carpetas\archivos de la u\clases\7mo semestre\electronica 2 victor\parcial 4\pci11414_kevin flores\pci11414_kevin flores.dsn")
+      (Path "Design Resources"
+         "c:\users\kevin\desktop\carpetas\archivos de la u\clases\7mo semestre\electronica 2 victor\parcial 4\pci11414_kevin flores\pci11414_kevin flores.dsn"
+         "PCIe Switch")
+      (Path "Layout")
+      (Path "Outputs")
+      (Path "Logs")
+      (Select "Design Resources"
+         "c:\users\kevin\desktop\carpetas\archivos de la u\clases\7mo semestre\electronica 2 victor\parcial 4\pci11414_kevin flores\pci11414_kevin flores.dsn"
+         "PCIe Switch" "P4 PCIe I/O"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 559"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1024 24 577")
+        (Scroll "-81 0")
+        (Zoom "85")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\KEVIN\DESKTOP\CARPETAS\ARCHIVOS DE LA U\CLASES\7MO SEMESTRE\ELECTRONICA 2 VICTOR\PARCIAL 4\PCI11414_KEVIN FLORES\PCI11414_KEVIN FLORES.DSN")
+      (Schematic "PCIe Switch")
+      (Page "P2 BOARD POWER & RESETS"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1024 24 577")
+        (Scroll "669 262")
+        (Zoom "82")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\KEVIN\DESKTOP\CARPETAS\ARCHIVOS DE LA U\CLASES\7MO SEMESTRE\ELECTRONICA 2 VICTOR\PARCIAL 4\PCI11414_KEVIN FLORES\PCI11414_KEVIN FLORES.DSN")
+      (Schematic "PCIe Switch")
+      (Page "P4 PCIe I/O"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1024 24 577")
+        (Scroll "-160 -10")
+        (Zoom "33")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\KEVIN\DESKTOP\CARPETAS\ARCHIVOS DE LA U\CLASES\7MO SEMESTRE\ELECTRONICA 2 VICTOR\PARCIAL 4\PCI11414_KEVIN FLORES\PCI11414_KEVIN FLORES.DSN")
+      (Schematic "PCIe Switch")
+      (Page "P5 PCIe CHIP POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1024 24 577")
+        (Scroll "-98 -8")
+        (Zoom "52")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\KEVIN\DESKTOP\CARPETAS\ARCHIVOS DE LA U\CLASES\7MO SEMESTRE\ELECTRONICA 2 VICTOR\PARCIAL 4\PCI11414_KEVIN FLORES\PCI11414_KEVIN FLORES.DSN")
+      (Schematic "PCIe Switch")
+      (Page "P3 PCIe POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1024 24 577")
+        (Scroll "-154 -8")
+        (Zoom "70")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\KEVIN\DESKTOP\CARPETAS\ARCHIVOS DE LA U\CLASES\7MO SEMESTRE\ELECTRONICA 2 VICTOR\PARCIAL 4\PCI11414_KEVIN FLORES\PCI11414_KEVIN FLORES.DSN")
+      (Schematic "PCIe Switch")
+      (Page "P8 PCIe CLOCK"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1024 24 577")
+        (Scroll "-160 -10")
+        (Zoom "33")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\KEVIN\DESKTOP\CARPETAS\ARCHIVOS DE LA U\CLASES\7MO SEMESTRE\ELECTRONICA 2 VICTOR\PARCIAL 4\PCI11414_KEVIN FLORES\PCI11414_KEVIN FLORES.DSN")
+      (Schematic "PCIe Switch")
+      (Page "P9 RESET"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1024 24 577")
+        (Scroll "250 28")
+        (Zoom "66")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\KEVIN\DESKTOP\CARPETAS\ARCHIVOS DE LA U\CLASES\7MO SEMESTRE\ELECTRONICA 2 VICTOR\PARCIAL 4\PCI11414_KEVIN FLORES\PCI11414_KEVIN FLORES.DSN")
+      (Schematic "PCIe Switch")
+      (Page "P9.1 DOWNSTREAM PORTS 5 - 7"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1024 24 577")
+        (Scroll "-160 -10")
+        (Zoom "33")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\KEVIN\DESKTOP\CARPETAS\ARCHIVOS DE LA U\CLASES\7MO SEMESTRE\ELECTRONICA 2 VICTOR\PARCIAL 4\PCI11414_KEVIN FLORES\PCI11414_KEVIN FLORES.DSN")
+      (Schematic "PCIe Switch")
+      (Page "P9.1 ETHERNET POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1024 24 577")
+        (Scroll "-8 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\KEVIN\DESKTOP\CARPETAS\ARCHIVOS DE LA U\CLASES\7MO SEMESTRE\ELECTRONICA 2 VICTOR\PARCIAL 4\PCI11414_KEVIN FLORES\PCI11414_KEVIN FLORES.DSN")
+      (Schematic "PCIe Switch")
+      (Page "P0 TITLE PAGE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1024 24 577")
+        (Scroll "-154 -8")
+        (Zoom "70")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\KEVIN\DESKTOP\CARPETAS\ARCHIVOS DE LA U\CLASES\7MO SEMESTRE\ELECTRONICA 2 VICTOR\PARCIAL 4\PCI11414_KEVIN FLORES\PCI11414_KEVIN FLORES.DSN")
+      (Schematic "PCIe Switch")
+      (Page "P1 TOC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1024 24 577")
+        (Scroll "-98 -8")
+        (Zoom "52")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\KEVIN\DESKTOP\CARPETAS\ARCHIVOS DE LA U\CLASES\7MO SEMESTRE\ELECTRONICA 2 VICTOR\PARCIAL 4\PCI11414_KEVIN FLORES\PCI11414_KEVIN FLORES.DSN")
+      (Schematic "PCIe Switch")
+      (Page "P6 PCIe INTERFACE"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 1024 24 577")
+        (Scroll "0 447")
+        (Zoom "66")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\KEVIN\DESKTOP\CARPETAS\ARCHIVOS DE LA U\CLASES\7MO SEMESTRE\ELECTRONICA 2 VICTOR\PARCIAL 4\PCI11414_KEVIN FLORES\PCI11414_KEVIN FLORES.DSN")
+      (Schematic "PCIe Switch")
+      (Page "P7 PCIe SIDEBAND")))
+  (LastUsedLibraryBrowseDirectory
+     "C:\Cadence\OrCADX_25.1\tools\capture\library")
+  (ISPCBBASICLICENSE "false"))

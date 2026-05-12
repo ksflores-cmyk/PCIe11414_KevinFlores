@@ -1,0 +1,100 @@
+\t (00:00:01) allegro 25.1 S020 (4396590) [2/5/2026] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Mon May 11 22:07:49 2026
+\t (00:00:01)         Host=KEVIN User=Kevin Pid=13840 CPUs=16
+\t (00:00:01) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\allegro.exe -mpssession Kevin -proj c:\users\kevin\desktop\carpetas\archivos de la u\clases\7mo semestre\electronica 2 victor\parcial 4\pci11414_kevin flores\pci11414_kevin flores.opj c:/users/kevin/desktop/carpetas/archivos de la u/clases/7mo semestre/electronica 2 victor/parcial 4/pci11414_kevin flores/allegro/pci11414_kevin flores.brd
+\t (00:00:01) 
+\t (00:00:01) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "pci11414_kevin flores"
+\d (00:00:04) Design opened: c:/users/kevin/desktop/carpetas/archivos de la u/clases/7mo semestre/electronica 2 victor/parcial 4/pci11414_kevin flores/allegro/pci11414_kevin flores.brd
+\i (00:00:04) trapsize 12052
+\i (00:00:04) trapsize 12488
+\i (00:00:04) trapsize 12052
+\i (00:00:04) trapsize 10593
+\i (00:00:04) trapsize 10593
+\t (00:00:04) > Sending response DoneOpenBoard
+\i (00:00:06) updateport SearchPane
+\i (00:00:06) updateport CVPane
+\t (00:00:06) > DoPullSchematic message received
+\t (00:00:06) > Pulling schematic...
+\t (00:00:06) Starting Cadence Logic Import...
+\w (00:00:07) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (00:00:07) Opening existing design...
+\i (00:00:07) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:00:07) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\w (00:00:07) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:00:07) Loading consmgr.cxt 
+\t (00:00:07) Loading acns_formula.cxt 
+\i (00:00:07) trapsize 10593
+\t (00:00:07) > Sending response DonePullSchematic
+\t (00:00:07) > Schematic pulled successfully
+\i (00:00:07) shapeedit 
+\i (00:00:08) updateport SearchPane
+\i (00:00:08) updateport CVPane
+\i (00:00:56) setwindow text
+\i (00:00:56) close
+\i (00:00:58) setwindow pcb
+\i (00:00:58) netin 
+\i (00:14:39) setwindow form.niparams
+\i (00:14:39) FORM niparams cancel  
+\i (00:14:39) setwindow pcb
+\i (00:14:39) shapeedit 
+\t (00:14:39) [22:22:28.120674] Periodic Lic check successful
+[22:22:28.120696] Feature usage summary:
+[22:22:28.120696] OrCAD_X_PCB_Professional_Plus  
+[22:22:28.120697] OrCAD_X_Professional_Plus  
+\i (00:14:43) zoom in 1 
+\i (00:14:43) setwindow pcb
+\i (00:14:43) zoom in 58.8983 79.2373
+\i (00:14:43) trapsize 5297
+\i (00:14:43) zoom in 1 
+\i (00:14:43) setwindow pcb
+\i (00:14:43) zoom in 53.0720 80.0848
+\i (00:14:43) trapsize 2648
+\i (00:14:43) zoom out 1 
+\i (00:14:43) setwindow pcb
+\i (00:14:43) zoom out 52.8602 84.0043
+\i (00:14:43) trapsize 5297
+\i (00:14:43) zoom out 1 
+\i (00:14:43) setwindow pcb
+\i (00:14:43) zoom out 52.8602 84.0043
+\i (00:14:43) trapsize 10593
+\i (00:14:44) zoom in 1 
+\i (00:14:44) setwindow pcb
+\i (00:14:44) zoom in 50.9533 94.1739
+\i (00:14:44) trapsize 5297
+\i (00:14:44) zoom out 1 
+\i (00:14:44) setwindow pcb
+\i (00:14:44) zoom out 50.9534 94.1739
+\i (00:14:44) trapsize 10593
+\i (00:14:45) zoom out 1 
+\i (00:14:45) setwindow pcb
+\i (00:14:45) zoom out 14.3008 102.2247
+\i (00:14:45) trapsize 21186
+\i (00:14:46) zoom in 1 
+\i (00:14:46) setwindow pcb
+\i (00:14:46) zoom in 52.5424 96.1864
+\i (00:14:46) trapsize 10593
+\i (00:14:46) zoom out 1 
+\i (00:14:46) setwindow pcb
+\i (00:14:46) zoom out 51.9068 96.3983
+\i (00:14:46) trapsize 21186
+\i (00:14:47) zoom in 1 
+\i (00:14:47) setwindow pcb
+\i (00:14:47) zoom in 119.9152 68.2203
+\i (00:14:47) trapsize 10593
+\i (00:14:47) zoom out 1 
+\i (00:14:47) setwindow pcb
+\i (00:14:47) zoom out 95.5508 74.3644
+\i (00:14:47) trapsize 21186
+\i (00:14:49) save 
+\i (00:14:50) fillin yes 
+\t (00:14:50) > Sending response DoneOpenBoard
+\i (00:14:50) shapeedit 
+\i (00:14:51) exit 
+\t (00:14:51) Lic Summary:
+[22:22:40.517481] Cdslmd servers:C:\Users\Kevin\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[22:22:40.517760] Feature usage summary:
+[22:22:40.517760] OrCAD_X_PCB_Professional_Plus  
+[22:22:40.517761] OrCAD_X_Professional_Plus  
+\t (00:14:51)     Journal end - Mon May 11 22:22:40 2026

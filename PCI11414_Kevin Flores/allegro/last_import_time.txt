@@ -1,0 +1,8 @@
+2026-05-11T21:15:44 ===> "c:/users/kevin/desktop/carpetas/archivos de la u/clases/7mo semestre/electronica 2 victor/parcial 4/pci11414_kevin flores/allegro/pstchip.dat"
+2026-05-11T21:15:44 ===> "c:/users/kevin/desktop/carpetas/archivos de la u/clases/7mo semestre/electronica 2 victor/parcial 4/pci11414_kevin flores/allegro/pstxnet.dat"
+2026-05-11T21:15:44 ===> "c:/users/kevin/desktop/carpetas/archivos de la u/clases/7mo semestre/electronica 2 victor/parcial 4/pci11414_kevin flores/allegro/pstxprt.dat"
+2026-05-11T21:15:44 ===> "c:/users/kevin/desktop/carpetas/archivos de la u/clases/7mo semestre/electronica 2 victor/parcial 4/pci11414_kevin flores/allegro/pstdmlmodels.dat"
+2026-05-11T22:07:55 ===> "c:/users/kevin/desktop/carpetas/archivos de la u/clases/7mo semestre/electronica 2 victor/parcial 4/pci11414_kevin flores/allegro/pstchip.dat"
+2026-05-11T22:07:55 ===> "c:/users/kevin/desktop/carpetas/archivos de la u/clases/7mo semestre/electronica 2 victor/parcial 4/pci11414_kevin flores/allegro/pstxnet.dat"
+2026-05-11T22:07:55 ===> "c:/users/kevin/desktop/carpetas/archivos de la u/clases/7mo semestre/electronica 2 victor/parcial 4/pci11414_kevin flores/allegro/pstxprt.dat"
+2026-05-11T22:07:55 ===> "c:/users/kevin/desktop/carpetas/archivos de la u/clases/7mo semestre/electronica 2 victor/parcial 4/pci11414_kevin flores/allegro/pstdmlmodels.dat"

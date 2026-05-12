@@ -1,0 +1,515 @@
+A!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!REFDES!FUNC_PRIM_FILE!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_PARENT_PART_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!FUNC_GROUP!FUNC_ROOM!FUNC_CDS_FSP_UID!FUNC_NO_SWAP_PIN!FUNC_HARD_LOCATION!FUNC_NO_SWAP_GATE_EXT!FUNC_CDS_FSP_MAPPED_CELL!FUNC_CDS_FSP_FPGA_SYMBOL!FUNC_CDS_FSP_TERM_TYPE!FUNC_CDS_FSP_TERM_NAME!FUNC_ROOM!FUNC_GROUP!FUNC_CDS_FSP_TERM_INDEX!FUNC_CDS_FSP_INSTANCE_ID!FUNC_NO_SWAP_GATE!FUNC_NO_XNET_CONNECTION!FUNC_CDS_FSP_IS_FPGA!
+J!c:/users/kevin/desktop/carpetas/archivos de la u/clases/7mo semestre/electronica 2 victor/parcial 4/pci11414_kevin flores/allegro/pci11414_kevin flores.brd!Mon May 11 22:07:45 2026!-100.0000!-100.0000!300.0000!200.0000!0.0001!millimeters!PCI11414_KEVIN FLORES!10.400000 mil!2!UP TO DATE!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17669521@discrete.\bead.normal\(chips)!BEAD_RC0603N_YAG_BEAD!33R1!.\chipsView.dat!!!!!!F509!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17669619@discrete.\bead.normal\(chips)!BEAD_RC0603N_YAG_BEAD!33R3!.\chipsView.dat!!!!!!F508!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins139345@passives.\hi1812v101r-10.normal\(chips)!HI1812V101R-10_FB_HI1812V101R-10_HI1812V101R-10!BD1!.\chipsView.dat!!!!!!F507!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins139747@passives.\hi1812v101r-10.normal\(chips)!HI1812V101R-10_FB_HI1812V101R-10_HI1812V101R-10!BD2!.\chipsView.dat!!!!!!F506!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140033@passives.\hi1812v101r-10.normal\(chips)!HI1812V101R-10_FB_HI1812V101R-10_HI1812V101R-10!BD3!.\chipsView.dat!!!!!!F505!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140115@passives.\hi1812v101r-10.normal\(chips)!HI1812V101R-10_FB_HI1812V101R-10_HI1812V101R-10!BD4!.\chipsView.dat!!!!!!F504!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140263@passives.\hi1812v101r-10.normal\(chips)!HI1812V101R-10_FB_HI1812V101R-10_HI1812V101R-10!BD5!.\chipsView.dat!!!!!!F503!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140461@passives.\hi1812v101r-10.normal\(chips)!HI1812V101R-10_FB_HI1812V101R-10_HI1812V101R-10!BD6!.\chipsView.dat!!!!!!F502!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141471@discrete.\cap np.normal\(chips)!CAP NP_SMC0805T_47UF/6.3V!C100!.\chipsView.dat!!!!!!F501!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141551@discrete.\cap np.normal\(chips)!CAP NP_SMC0805T_47UF/6.3V!C105!.\chipsView.dat!!!!!!F500!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141407@discrete.\cap np.normal\(chips)!CAP NP_SMC0805T_47UF/6.3V!C109!.\chipsView.dat!!!!!!F499!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140963@discrete.\cap np.normal\(chips)!CAP NP_SMC0805T_47UF/6.3V!C83!.\chipsView.dat!!!!!!F498!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141391@discrete.\cap np.normal\(chips)!CAP NP_SMC0805T_47UF/6.3V!C99!.\chipsView.dat!!!!!!F497!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141487@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/6.3V!C101!.\chipsView.dat!!!!!!F496!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141567@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/6.3V!C106!.\chipsView.dat!!!!!!F495!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16880165@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/6.3V!C146!.\chipsView.dat!!!!!!F494!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16880414@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/6.3V!C148!.\chipsView.dat!!!!!!F493!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16898466@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/6.3V!C164!.\chipsView.dat!!!!!!F492!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins139369@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/6.3V!C54!.\chipsView.dat!!!!!!F491!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins139615@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/6.3V!C59!.\chipsView.dat!!!!!!F490!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins139869@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/6.3V!C64!.\chipsView.dat!!!!!!F489!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140373@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/6.3V!C73!.\chipsView.dat!!!!!!F488!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140603@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/6.3V!C78!.\chipsView.dat!!!!!!F487!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140979@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/6.3V!C84!.\chipsView.dat!!!!!!F486!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141043@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/6.3V!C88!.\chipsView.dat!!!!!!F485!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141091@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/6.3V!C91!.\chipsView.dat!!!!!!F484!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140863@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/6.3V!C92!.\chipsView.dat!!!!!!F483!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141503@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_4.7UF/6.3V!C102!.\chipsView.dat!!!!!!F482!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141583@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_4.7UF/6.3V!C107!.\chipsView.dat!!!!!!F481!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins139385@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_4.7UF/6.3V!C55!.\chipsView.dat!!!!!!F480!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins139631@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_4.7UF/6.3V!C60!.\chipsView.dat!!!!!!F479!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins139885@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_4.7UF/6.3V!C65!.\chipsView.dat!!!!!!F478!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140389@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_4.7UF/6.3V!C74!.\chipsView.dat!!!!!!F477!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140619@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_4.7UF/6.3V!C79!.\chipsView.dat!!!!!!F476!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140995@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_4.7UF/6.3V!C85!.\chipsView.dat!!!!!!F475!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141059@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_4.7UF/6.3V!C89!.\chipsView.dat!!!!!!F474!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140879@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_4.7UF/6.3V!C93!.\chipsView.dat!!!!!!F473!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141107@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_4.7UF/6.3V!C95!.\chipsView.dat!!!!!!F472!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141519@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C103!.\chipsView.dat!!!!!!F471!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141535@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C104!.\chipsView.dat!!!!!!F470!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141599@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C108!.\chipsView.dat!!!!!!F469!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141615@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C110!.\chipsView.dat!!!!!!F468!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141631@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C112!.\chipsView.dat!!!!!!F467!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16880247@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C149!.\chipsView.dat!!!!!!F466!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16880464@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C150!.\chipsView.dat!!!!!!F465!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16898474@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C165!.\chipsView.dat!!!!!!F464!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16898482@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C166!.\chipsView.dat!!!!!!F463!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins139401@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C56!.\chipsView.dat!!!!!!F462!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins139417@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C57!.\chipsView.dat!!!!!!F461!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins139433@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C58!.\chipsView.dat!!!!!!F460!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins139647@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C61!.\chipsView.dat!!!!!!F459!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins139663@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C62!.\chipsView.dat!!!!!!F458!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins139679@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C63!.\chipsView.dat!!!!!!F457!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins139901@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C66!.\chipsView.dat!!!!!!F456!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins139917@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C67!.\chipsView.dat!!!!!!F455!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins139933@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C68!.\chipsView.dat!!!!!!F454!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140405@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C75!.\chipsView.dat!!!!!!F453!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140421@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C76!.\chipsView.dat!!!!!!F452!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140437@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C77!.\chipsView.dat!!!!!!F451!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140635@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C80!.\chipsView.dat!!!!!!F450!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140651@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C81!.\chipsView.dat!!!!!!F449!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140667@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C82!.\chipsView.dat!!!!!!F448!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141011@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C86!.\chipsView.dat!!!!!!F447!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141027@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C87!.\chipsView.dat!!!!!!F446!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141075@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C90!.\chipsView.dat!!!!!!F445!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140895@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C94!.\chipsView.dat!!!!!!F444!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140911@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C96!.\chipsView.dat!!!!!!F443!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141123@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C97!.\chipsView.dat!!!!!!F442!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140927@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/6.3V!C98!.\chipsView.dat!!!!!!F441!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141423@discrete.\cap np.normal\(chips)!CAP NP_SMC1206T_X_100UF/6.3V!C111!.\chipsView.dat!!!!!!F440!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins141439@discrete.\cap np.normal\(chips)!CAP NP_SMC1206T_X_100UF/6.3V!C113!.\chipsView.dat!!!!!!F439!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140139@discrete.\cap np.normal\(chips)!CAP NP_SMC1206T_X_100UF/6.3V!C69!.\chipsView.dat!!!!!!F438!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140155@discrete.\cap np.normal\(chips)!CAP NP_SMC1206T_X_100UF/6.3V!C70!.\chipsView.dat!!!!!!F437!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140171@discrete.\cap np.normal\(chips)!CAP NP_SMC1206T_X_100UF/6.3V!C71!.\chipsView.dat!!!!!!F436!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins140187@discrete.\cap np.normal\(chips)!CAP NP_SMC1206T_X_100UF/6.3V!C72!.\chipsView.dat!!!!!!F435!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16925395@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C114!.\chipsView.dat!!!!!!F434!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16925405@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C115!.\chipsView.dat!!!!!!F433!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16925355@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C116!.\chipsView.dat!!!!!!F432!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16925365@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C117!.\chipsView.dat!!!!!!F431!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16924049@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C118!.\chipsView.dat!!!!!!F430!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16924057@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C119!.\chipsView.dat!!!!!!F429!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16924632@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C120!.\chipsView.dat!!!!!!F428!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16924734@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C121!.\chipsView.dat!!!!!!F427!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16924744@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C122!.\chipsView.dat!!!!!!F426!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16924622@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C123!.\chipsView.dat!!!!!!F425!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16924774@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C124!.\chipsView.dat!!!!!!F424!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16924784@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C125!.\chipsView.dat!!!!!!F423!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16924814@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C126!.\chipsView.dat!!!!!!F422!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16924824@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C127!.\chipsView.dat!!!!!!F421!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16924854@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C128!.\chipsView.dat!!!!!!F420!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16924864@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C129!.\chipsView.dat!!!!!!F419!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16924894@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C130!.\chipsView.dat!!!!!!F418!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16924904@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C131!.\chipsView.dat!!!!!!F417!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16924934@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C132!.\chipsView.dat!!!!!!F416!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16924944@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C133!.\chipsView.dat!!!!!!F415!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16924974@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C134!.\chipsView.dat!!!!!!F414!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16924984@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C135!.\chipsView.dat!!!!!!F413!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16925014@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C136!.\chipsView.dat!!!!!!F412!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16925024@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C137!.\chipsView.dat!!!!!!F411!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16925054@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C138!.\chipsView.dat!!!!!!F410!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16925064@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C139!.\chipsView.dat!!!!!!F409!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16925094@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C140!.\chipsView.dat!!!!!!F408!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16925104@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C141!.\chipsView.dat!!!!!!F407!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16925134@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C142!.\chipsView.dat!!!!!!F406!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16925144@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C143!.\chipsView.dat!!!!!!F405!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16925174@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C144!.\chipsView.dat!!!!!!F404!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16925184@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.22UF/16V!C145!.\chipsView.dat!!!!!!F403!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16880173@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/10V!C147!.\chipsView.dat!!!!!!F402!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16898285@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/10V!C168!.\chipsView.dat!!!!!!F401!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16880255@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/10V!C151!.\chipsView.dat!!!!!!F400!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16898277@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/10V!C167!.\chipsView.dat!!!!!!F399!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16898269@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF/10V!C169!.\chipsView.dat!!!!!!F398!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17099848@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_0.1UF/50V!C152!.\chipsView.dat!!!!!!F397!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16872823@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_0.1UF/50V!C153!.\chipsView.dat!!!!!!F396!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16872815@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_0.1UF/50V!C154!.\chipsView.dat!!!!!!F395!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16872807@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_0.1UF/50V!C155!.\chipsView.dat!!!!!!F394!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16872799@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_0.1UF/50V!C156!.\chipsView.dat!!!!!!F393!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122010@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_0.1UF/50V!C158!.\chipsView.dat!!!!!!F392!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122794@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_0.1UF/50V!C160!.\chipsView.dat!!!!!!F391!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122810@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_0.1UF/50V!C161!.\chipsView.dat!!!!!!F390!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122826@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_0.1UF/50V!C162!.\chipsView.dat!!!!!!F389!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122842@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_0.1UF/50V!C163!.\chipsView.dat!!!!!!F388!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17299448@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_0.1UF/50V!C171!.\chipsView.dat!!!!!!F387!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16872791@discrete.\cap.normal\(chips)!CAP_SMC0603T_10UF/16V!C157!.\chipsView.dat!!!!!!F386!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122778@discrete.\cap.normal\(chips)!CAP_SMC0603T_10UF/16V!C159!.\chipsView.dat!!!!!!F385!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16778037@\pcie-nvme\.\cap_0.normal\(chips)!CAP_0_SMC0805T_10UF/16V!C170!.\chipsView.dat!!!!!!F384!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17075548@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/16V!C172!.\chipsView.dat!!!!!!F383!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17077093@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/16V!C176!.\chipsView.dat!!!!!!F382!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17075596@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/16V!C180!.\chipsView.dat!!!!!!F381!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17077141@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/16V!C183!.\chipsView.dat!!!!!!F380!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17075620@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/16V!C186!.\chipsView.dat!!!!!!F379!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17077165@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/16V!C192!.\chipsView.dat!!!!!!F378!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17070529@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/16V!C196!.\chipsView.dat!!!!!!F377!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17070577@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/16V!C204!.\chipsView.dat!!!!!!F376!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17070601@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/16V!C210!.\chipsView.dat!!!!!!F375!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079133@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/16V!C220!.\chipsView.dat!!!!!!F374!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079692@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/16V!C224!.\chipsView.dat!!!!!!F373!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079181@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/16V!C228!.\chipsView.dat!!!!!!F372!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079740@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/16V!C231!.\chipsView.dat!!!!!!F371!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079205@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/16V!C234!.\chipsView.dat!!!!!!F370!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079764@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/16V!C240!.\chipsView.dat!!!!!!F369!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17080247@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/16V!C244!.\chipsView.dat!!!!!!F368!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17080295@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/16V!C248!.\chipsView.dat!!!!!!F367!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17080319@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_10UF/16V!C251!.\chipsView.dat!!!!!!F366!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17075556@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_1UF/25V!C173!.\chipsView.dat!!!!!!F365!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17077101@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_1UF/25V!C177!.\chipsView.dat!!!!!!F364!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17077173@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_1UF/25V!C189!.\chipsView.dat!!!!!!F363!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17075628@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_1UF/25V!C191!.\chipsView.dat!!!!!!F362!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17070537@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_1UF/25V!C197!.\chipsView.dat!!!!!!F361!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17069106@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_1UF/25V!C201!.\chipsView.dat!!!!!!F360!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17070609@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_1UF/25V!C211!.\chipsView.dat!!!!!!F359!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17066538@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_1UF/25V!C215!.\chipsView.dat!!!!!!F358!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079141@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_1UF/25V!C221!.\chipsView.dat!!!!!!F357!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079700@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_1UF/25V!C225!.\chipsView.dat!!!!!!F356!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079213@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_1UF/25V!C235!.\chipsView.dat!!!!!!F355!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079772@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_1UF/25V!C238!.\chipsView.dat!!!!!!F354!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17080255@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_1UF/25V!C245!.\chipsView.dat!!!!!!F353!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17080327@discrete.\cap np.normal\(chips)!CAP NP_SMC0603T_1UF/25V!C253!.\chipsView.dat!!!!!!F352!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17075564@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C174!.\chipsView.dat!!!!!!F351!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17075572@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C175!.\chipsView.dat!!!!!!F350!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17077109@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C178!.\chipsView.dat!!!!!!F349!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17077117@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C179!.\chipsView.dat!!!!!!F348!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17075612@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C182!.\chipsView.dat!!!!!!F347!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17077157@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C185!.\chipsView.dat!!!!!!F346!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17075636@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C187!.\chipsView.dat!!!!!!F345!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17075644@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C188!.\chipsView.dat!!!!!!F344!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17077189@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C190!.\chipsView.dat!!!!!!F343!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17077181@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C193!.\chipsView.dat!!!!!!F342!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17070545@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C198!.\chipsView.dat!!!!!!F341!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17070553@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C199!.\chipsView.dat!!!!!!F340!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16962735@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C202!.\chipsView.dat!!!!!!F339!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16962743@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C203!.\chipsView.dat!!!!!!F338!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17070593@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C206!.\chipsView.dat!!!!!!F337!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16963161@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C209!.\chipsView.dat!!!!!!F336!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17070617@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C212!.\chipsView.dat!!!!!!F335!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17070625@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C213!.\chipsView.dat!!!!!!F334!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16963473@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C216!.\chipsView.dat!!!!!!F333!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16963481@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C217!.\chipsView.dat!!!!!!F332!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079149@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C222!.\chipsView.dat!!!!!!F331!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079157@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C223!.\chipsView.dat!!!!!!F330!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079708@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C226!.\chipsView.dat!!!!!!F329!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079716@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C227!.\chipsView.dat!!!!!!F328!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079197@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C230!.\chipsView.dat!!!!!!F327!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079756@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C233!.\chipsView.dat!!!!!!F326!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079221@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C236!.\chipsView.dat!!!!!!F325!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079229@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C237!.\chipsView.dat!!!!!!F324!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079788@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C239!.\chipsView.dat!!!!!!F323!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079780@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C241!.\chipsView.dat!!!!!!F322!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17080263@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C246!.\chipsView.dat!!!!!!F321!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17080271@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C247!.\chipsView.dat!!!!!!F320!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17080311@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C250!.\chipsView.dat!!!!!!F319!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17080335@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C252!.\chipsView.dat!!!!!!F318!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17080343@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_10NF/10V!C254!.\chipsView.dat!!!!!!F317!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17075604@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_100NF/16V!C181!.\chipsView.dat!!!!!!F316!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17077149@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_100NF/16V!C184!.\chipsView.dat!!!!!!F315!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17070585@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_100NF/16V!C205!.\chipsView.dat!!!!!!F314!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16963153@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_100NF/16V!C208!.\chipsView.dat!!!!!!F313!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079189@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_100NF/16V!C229!.\chipsView.dat!!!!!!F312!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079748@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_100NF/16V!C232!.\chipsView.dat!!!!!!F311!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17080303@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_100NF/16V!C249!.\chipsView.dat!!!!!!F310!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17629382@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC3216X100N_22UF!C1935!.\chipsView.dat!!!!!!F309!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17629390@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC3216X100N_22UF!C1936!.\chipsView.dat!!!!!!F308!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664162@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC3216X100N_22UF!C1996!.\chipsView.dat!!!!!!F307!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664175@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC3216X100N_22UF!C1997!.\chipsView.dat!!!!!!F306!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17627953@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC3216X100N_22UF!C258!.\chipsView.dat!!!!!!F305!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17628141@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC3216X100N_22UF!C259!.\chipsView.dat!!!!!!F304!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17628154@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC3216X100N_22UF!C260!.\chipsView.dat!!!!!!F303!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17630904@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC2012X94N_4.7UF!C1938!.\chipsView.dat!!!!!!F302!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17634365@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC2012X94N_4.7UF!C1940!.\chipsView.dat!!!!!!F301!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17634357@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1939!.\chipsView.dat!!!!!!F300!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17661930@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1943!.\chipsView.dat!!!!!!F299!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17661943@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1944!.\chipsView.dat!!!!!!F298!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17661956@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1945!.\chipsView.dat!!!!!!F297!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17661969@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1946!.\chipsView.dat!!!!!!F296!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17661982@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1947!.\chipsView.dat!!!!!!F295!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17661995@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1948!.\chipsView.dat!!!!!!F294!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662008@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1949!.\chipsView.dat!!!!!!F293!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662021@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1950!.\chipsView.dat!!!!!!F292!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662034@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1951!.\chipsView.dat!!!!!!F291!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662047@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1952!.\chipsView.dat!!!!!!F290!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662060@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1953!.\chipsView.dat!!!!!!F289!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662073@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1954!.\chipsView.dat!!!!!!F288!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662086@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1955!.\chipsView.dat!!!!!!F287!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662099@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1956!.\chipsView.dat!!!!!!F286!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662112@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1957!.\chipsView.dat!!!!!!F285!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662125@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1958!.\chipsView.dat!!!!!!F284!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662138@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1959!.\chipsView.dat!!!!!!F283!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662151@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1960!.\chipsView.dat!!!!!!F282!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662164@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1961!.\chipsView.dat!!!!!!F281!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662177@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1962!.\chipsView.dat!!!!!!F280!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662190@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1963!.\chipsView.dat!!!!!!F279!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662203@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1964!.\chipsView.dat!!!!!!F278!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662216@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1965!.\chipsView.dat!!!!!!F277!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662229@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1966!.\chipsView.dat!!!!!!F276!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662242@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1967!.\chipsView.dat!!!!!!F275!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662255@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1968!.\chipsView.dat!!!!!!F274!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662268@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1969!.\chipsView.dat!!!!!!F273!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662281@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1970!.\chipsView.dat!!!!!!F272!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662294@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1971!.\chipsView.dat!!!!!!F271!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662307@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1972!.\chipsView.dat!!!!!!F270!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662320@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1973!.\chipsView.dat!!!!!!F269!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662333@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1974!.\chipsView.dat!!!!!!F268!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662346@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1975!.\chipsView.dat!!!!!!F267!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662359@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1976!.\chipsView.dat!!!!!!F266!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662372@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1977!.\chipsView.dat!!!!!!F265!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17662385@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1NF!C1978!.\chipsView.dat!!!!!!F264!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17445851@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF!C194!.\chipsView.dat!!!!!!F263!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17459525@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF!C195!.\chipsView.dat!!!!!!F262!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17458371@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF!C218!.\chipsView.dat!!!!!!F261!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17458939@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF!C219!.\chipsView.dat!!!!!!F260!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17468199@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF!C242!.\chipsView.dat!!!!!!F259!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17460133@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF!C243!.\chipsView.dat!!!!!!F258!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17467777@discrete.\cap np.normal\(chips)!CAP NP_SMC0402T_0.1UF!C255!.\chipsView.dat!!!!!!F257!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17640299@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C1941!.\chipsView.dat!!!!!!F256!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17643052@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C1942!.\chipsView.dat!!!!!!F255!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17663842@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C1979!.\chipsView.dat!!!!!!F254!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17663900@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C1980!.\chipsView.dat!!!!!!F253!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17663913@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C1981!.\chipsView.dat!!!!!!F252!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17663926@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C1982!.\chipsView.dat!!!!!!F251!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17663939@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C1983!.\chipsView.dat!!!!!!F250!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17663952@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C1984!.\chipsView.dat!!!!!!F249!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17663965@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C1985!.\chipsView.dat!!!!!!F248!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17663991@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C1986!.\chipsView.dat!!!!!!F247!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664018@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C1987!.\chipsView.dat!!!!!!F246!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664031@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C1988!.\chipsView.dat!!!!!!F245!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664044@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C1989!.\chipsView.dat!!!!!!F244!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664057@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C1990!.\chipsView.dat!!!!!!F243!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664070@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C1991!.\chipsView.dat!!!!!!F242!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664083@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C1992!.\chipsView.dat!!!!!!F241!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664114@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C1993!.\chipsView.dat!!!!!!F240!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664127@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C1994!.\chipsView.dat!!!!!!F239!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664140@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C1995!.\chipsView.dat!!!!!!F238!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17674562@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C2007!.\chipsView.dat!!!!!!F237!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17674575@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C2008!.\chipsView.dat!!!!!!F236!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17674588@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C2009!.\chipsView.dat!!!!!!F235!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17674601@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C2010!.\chipsView.dat!!!!!!F234!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17674652@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C2011!.\chipsView.dat!!!!!!F233!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17674671@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C2012!.\chipsView.dat!!!!!!F232!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17674696@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C2013!.\chipsView.dat!!!!!!F231!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17674709@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C2014!.\chipsView.dat!!!!!!F230!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17674753@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C2015!.\chipsView.dat!!!!!!F229!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17674766@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.1UF!C2016!.\chipsView.dat!!!!!!F228!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664188@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1UF!C1998!.\chipsView.dat!!!!!!F227!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664248@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1UF!C1999!.\chipsView.dat!!!!!!F226!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664261@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1UF!C2000!.\chipsView.dat!!!!!!F225!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664274@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1UF!C2001!.\chipsView.dat!!!!!!F224!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664287@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1UF!C2002!.\chipsView.dat!!!!!!F223!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664315@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1UF!C2003!.\chipsView.dat!!!!!!F222!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664343@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1UF!C2004!.\chipsView.dat!!!!!!F221!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664356@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1UF!C2005!.\chipsView.dat!!!!!!F220!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17664369@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_1UF!C2006!.\chipsView.dat!!!!!!F219!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16962719@discrete.\cap np.normal\(chips)!CAP NP_SMC0603_10UF/16V!C200!.\chipsView.dat!!!!!!F218!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16963145@discrete.\cap np.normal\(chips)!CAP NP_SMC0603_10UF/16V!C207!.\chipsView.dat!!!!!!F217!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16963457@discrete.\cap np.normal\(chips)!CAP NP_SMC0603_10UF/16V!C214!.\chipsView.dat!!!!!!F216!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17681205@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.01NF!C2017!.\chipsView.dat!!!!!!F215!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17681274@discrete.\capacitor non-pol.normal\(chips)!CAPACITOR NON-POL_CAPC0603X33N_0.01NF!C2018!.\chipsView.dat!!!!!!F214!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16901724@discrete.\led.normal\(chips)!LED_LED0402_G-LED!D10!.\chipsView.dat!!!!!!F213!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16901764@discrete.\led.normal\(chips)!LED_LED0402_G-LED!D11!.\chipsView.dat!!!!!!F212!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16901836@discrete.\led.normal\(chips)!LED_LED0402_G-LED!D12!.\chipsView.dat!!!!!!F211!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16901856@discrete.\led.normal\(chips)!LED_LED0402_G-LED!D13!.\chipsView.dat!!!!!!F210!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16901876@discrete.\led.normal\(chips)!LED_LED0402_G-LED!D14!.\chipsView.dat!!!!!!F209!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17075588@discrete.\led.normal\(chips)!LED_LED0402_G-LED!D15!.\chipsView.dat!!!!!!F208!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17077133@discrete.\led.normal\(chips)!LED_LED0402_G-LED!D16!.\chipsView.dat!!!!!!F207!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17070569@discrete.\led.normal\(chips)!LED_LED0402_G-LED!D17!.\chipsView.dat!!!!!!F206!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17062776@discrete.\led.normal\(chips)!LED_LED0402_G-LED!D18!.\chipsView.dat!!!!!!F205!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079173@discrete.\led.normal\(chips)!LED_LED0402_G-LED!D19!.\chipsView.dat!!!!!!F204!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079732@discrete.\led.normal\(chips)!LED_LED0402_G-LED!D20!.\chipsView.dat!!!!!!F203!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17080287@discrete.\led.normal\(chips)!LED_LED0402_G-LED!D21!.\chipsView.dat!!!!!!F202!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16901591@discrete.\led.normal\(chips)!LED_LED0402_G-LED!D7!.\chipsView.dat!!!!!!F201!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16901644@discrete.\led.normal\(chips)!LED_LED0402_G-LED!D8!.\chipsView.dat!!!!!!F200!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16901684@discrete.\led.normal\(chips)!LED_LED0402_G-LED!D9!.\chipsView.dat!!!!!!F199!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122408@discrete.\led.normal\(chips)!LED_LED0402_RED!D6!.\chipsView.dat!!!!!!F198!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16880309@\pcie-nvme\.\pca9306dp1,125_0.normal\(chips)!PCA9306DP1,125_0_SOP65P400X110-8N_PCA9306DP1,125!IC1!.\chipsView.dat!!!!!!F197!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17454896@connectors.\nvme_m.2_ssd_conn.normal\(chips)!NVME_M.2_SSD_CONN_MDT320M01001_FP_PCIE NVME M.2 SSD EDGE CONNECTOR!J10!.\chipsView.dat!!!!!!F196!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17457195@connectors.\nvme_m.2_ssd_conn.normal\(chips)!NVME_M.2_SSD_CONN_MDT320M01001_FP_PCIE NVME M.2 SSD EDGE CONNECTOR!J11!.\chipsView.dat!!!!!!F195!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17457746@connectors.\nvme_m.2_ssd_conn.normal\(chips)!NVME_M.2_SSD_CONN_MDT320M01001_FP_PCIE NVME M.2 SSD EDGE CONNECTOR!J12!.\chipsView.dat!!!!!!F194!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17466305@connectors.\nvme_m.2_ssd_conn.normal\(chips)!NVME_M.2_SSD_CONN_MDT320M01001_FP_PCIE NVME M.2 SSD EDGE CONNECTOR!J13!.\chipsView.dat!!!!!!F193!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17466674@connectors.\nvme_m.2_ssd_conn.normal\(chips)!NVME_M.2_SSD_CONN_MDT320M01001_FP_PCIE NVME M.2 SSD EDGE CONNECTOR!J14!.\chipsView.dat!!!!!!F192!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17467047@connectors.\nvme_m.2_ssd_conn.normal\(chips)!NVME_M.2_SSD_CONN_MDT320M01001_FP_PCIE NVME M.2 SSD EDGE CONNECTOR!J15!.\chipsView.dat!!!!!!F191!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17253939@connector.\conn pcb 2.normal\(chips)!CONN PCB 2_TE_641215-2_X_CON2!J6!.\chipsView.dat!!!!!!F190!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16880331@\pcie-nvme\.\con_0.normal\(chips)!CON_0_TE_3-641215-3_CON_3P!J7!.\chipsView.dat!!!!!!F189!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122468@\pcie-nvme\.\con 5p_0.normal\(chips)!CON 5P_0_TE_3-641215-5_X_CON5!J8!.\chipsView.dat!!!!!!F188!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17443449@\pcie-nvme\.\nvme_m_1.2_ssd_conn.normal\(chips)!NVME_M_1.2_SSD_CONN_MDT320M01001_FP_PCIE NVME M.2 SSD EDGE CONNECTOR!J9!.\chipsView.dat!!!!!!F187!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210368@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R100!.\chipsView.dat!!!!!!F186!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210398@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R101!.\chipsView.dat!!!!!!F185!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210430@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R102!.\chipsView.dat!!!!!!F184!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210470@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R103!.\chipsView.dat!!!!!!F183!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210502@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R104!.\chipsView.dat!!!!!!F182!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210542@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R105!.\chipsView.dat!!!!!!F181!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210574@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R106!.\chipsView.dat!!!!!!F180!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210614@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R107!.\chipsView.dat!!!!!!F179!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210646@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R108!.\chipsView.dat!!!!!!F178!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210686@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R109!.\chipsView.dat!!!!!!F177!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210718@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R110!.\chipsView.dat!!!!!!F176!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210758@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R111!.\chipsView.dat!!!!!!F175!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210790@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R112!.\chipsView.dat!!!!!!F174!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210830@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R113!.\chipsView.dat!!!!!!F173!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210862@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R114!.\chipsView.dat!!!!!!F172!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17297786@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R118!.\chipsView.dat!!!!!!F171!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17297794@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R119!.\chipsView.dat!!!!!!F170!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17297648@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R124!.\chipsView.dat!!!!!!F169!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17297726@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R125!.\chipsView.dat!!!!!!F168!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17297656@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R126!.\chipsView.dat!!!!!!F167!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17297734@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R127!.\chipsView.dat!!!!!!F166!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17297498@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R130!.\chipsView.dat!!!!!!F165!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17297568@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R131!.\chipsView.dat!!!!!!F164!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17297595@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R132!.\chipsView.dat!!!!!!F163!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17083158@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R24!.\chipsView.dat!!!!!!F162!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17091500@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R37!.\chipsView.dat!!!!!!F161!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17083208@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R38!.\chipsView.dat!!!!!!F160!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210150@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R93!.\chipsView.dat!!!!!!F159!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210172@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R94!.\chipsView.dat!!!!!!F158!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210210@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R95!.\chipsView.dat!!!!!!F157!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210232@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R96!.\chipsView.dat!!!!!!F156!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210274@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R97!.\chipsView.dat!!!!!!F155!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210306@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R98!.\chipsView.dat!!!!!!F154!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins210346@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_0R!R99!.\chipsView.dat!!!!!!F153!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17297826@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_X_0R!R115!.\chipsView.dat!!!!!!F152!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17085376@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0402T_X_0R!R70!.\chipsView.dat!!!!!!F151!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17297893@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R116!.\chipsView.dat!!!!!!F150!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17297990@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R117!.\chipsView.dat!!!!!!F149!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17298039@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R120!.\chipsView.dat!!!!!!F148!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17298093@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R121!.\chipsView.dat!!!!!!F147!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17298175@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R122!.\chipsView.dat!!!!!!F146!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17298183@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R123!.\chipsView.dat!!!!!!F145!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17298302@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R128!.\chipsView.dat!!!!!!F144!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17298310@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R129!.\chipsView.dat!!!!!!F143!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17107721@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R18!.\chipsView.dat!!!!!!F142!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17107574@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R19!.\chipsView.dat!!!!!!F141!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17107587@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R20!.\chipsView.dat!!!!!!F140!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17107605@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R21!.\chipsView.dat!!!!!!F139!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17107613@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R22!.\chipsView.dat!!!!!!F138!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17084805@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R26!.\chipsView.dat!!!!!!F137!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17084279@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R27!.\chipsView.dat!!!!!!F136!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17591693@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R28!.\chipsView.dat!!!!!!F135!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17084818@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R30!.\chipsView.dat!!!!!!F134!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17084831@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R31!.\chipsView.dat!!!!!!F133!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins120842@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R60!.\chipsView.dat!!!!!!F132!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins120874@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R62!.\chipsView.dat!!!!!!F131!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins120890@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R63!.\chipsView.dat!!!!!!F130!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins120954@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R67!.\chipsView.dat!!!!!!F129!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17032379@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_5.1K!R68!.\chipsView.dat!!!!!!F128!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17075580@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R133!.\chipsView.dat!!!!!!F127!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17077125@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R134!.\chipsView.dat!!!!!!F126!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17070561@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R139!.\chipsView.dat!!!!!!F125!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17062784@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R140!.\chipsView.dat!!!!!!F124!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079165@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R145!.\chipsView.dat!!!!!!F123!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079724@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R146!.\chipsView.dat!!!!!!F122!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17080279@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R151!.\chipsView.dat!!!!!!F121!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16880548@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R35!.\chipsView.dat!!!!!!F120!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17036513@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R54!.\chipsView.dat!!!!!!F119!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17101780@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R55!.\chipsView.dat!!!!!!F118!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17100652@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R56!.\chipsView.dat!!!!!!F117!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16901604@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R73!.\chipsView.dat!!!!!!F116!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16901652@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R75!.\chipsView.dat!!!!!!F115!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins121224@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R76!.\chipsView.dat!!!!!!F114!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16901692@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R78!.\chipsView.dat!!!!!!F113!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins121376@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R80!.\chipsView.dat!!!!!!F112!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16901732@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R81!.\chipsView.dat!!!!!!F111!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins121462@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R82!.\chipsView.dat!!!!!!F110!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins121538@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R83!.\chipsView.dat!!!!!!F109!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16901772@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R84!.\chipsView.dat!!!!!!F108!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16901844@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R87!.\chipsView.dat!!!!!!F107!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17030627@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R88!.\chipsView.dat!!!!!!F106!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17030635@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R89!.\chipsView.dat!!!!!!F105!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16901864@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R90!.\chipsView.dat!!!!!!F104!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17030643@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R91!.\chipsView.dat!!!!!!F103!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16901884@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_330R!R92!.\chipsView.dat!!!!!!F102!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17075652@discrete.\resistor.normal\(chips)!RESISTOR_SMR0402T_10K!R135!.\chipsView.dat!!!!!!F101!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17077197@discrete.\resistor.normal\(chips)!RESISTOR_SMR0402T_10K!R136!.\chipsView.dat!!!!!!F100!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17070633@discrete.\resistor.normal\(chips)!RESISTOR_SMR0402T_10K!R141!.\chipsView.dat!!!!!!F99!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16963497@discrete.\resistor.normal\(chips)!RESISTOR_SMR0402T_10K!R142!.\chipsView.dat!!!!!!F98!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079237@discrete.\resistor.normal\(chips)!RESISTOR_SMR0402T_10K!R147!.\chipsView.dat!!!!!!F97!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17079796@discrete.\resistor.normal\(chips)!RESISTOR_SMR0402T_10K!R148!.\chipsView.dat!!!!!!F96!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17080351@discrete.\resistor.normal\(chips)!RESISTOR_SMR0402T_10K!R152!.\chipsView.dat!!!!!!F95!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17085111@discrete.\resistor.normal\(chips)!RESISTOR_SMR0402T_10K!R59!.\chipsView.dat!!!!!!F94!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17445843@discrete.\resistor.normal\(chips)!RESISTOR_SMR0402T_330R!R137!.\chipsView.dat!!!!!!F93!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17459513@discrete.\resistor.normal\(chips)!RESISTOR_SMR0402T_330R!R138!.\chipsView.dat!!!!!!F92!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17458359@discrete.\resistor.normal\(chips)!RESISTOR_SMR0402T_330R!R143!.\chipsView.dat!!!!!!F91!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17458927@discrete.\resistor.normal\(chips)!RESISTOR_SMR0402T_330R!R144!.\chipsView.dat!!!!!!F90!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17468187@discrete.\resistor.normal\(chips)!RESISTOR_SMR0402T_330R!R149!.\chipsView.dat!!!!!!F89!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17460121@discrete.\resistor.normal\(chips)!RESISTOR_SMR0402T_330R!R150!.\chipsView.dat!!!!!!F88!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17467765@discrete.\resistor.normal\(chips)!RESISTOR_SMR0402T_330R!R153!.\chipsView.dat!!!!!!F87!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17627927@discrete.\r.normal\(chips)!R_RESC1005X35N_255!R154!.\chipsView.dat!!!!!!F86!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17628908@discrete.\r.normal\(chips)!R_RESC1005X35N_100K!R155!.\chipsView.dat!!!!!!F85!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17630492@discrete.\r.normal\(chips)!R_RESC1005X35N_100K!R157!.\chipsView.dat!!!!!!F84!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17634349@discrete.\r.normal\(chips)!R_RESC1005X35N_100K!R160!.\chipsView.dat!!!!!!F83!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17636478@discrete.\r.normal\(chips)!R_RESC1005X35N_100K!R161!.\chipsView.dat!!!!!!F82!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17636491@discrete.\r.normal\(chips)!R_RESC1005X35N_100K!R162!.\chipsView.dat!!!!!!F81!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17642664@discrete.\r.normal\(chips)!R_RESC1005X35N_100K!R163!.\chipsView.dat!!!!!!F80!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17643115@discrete.\r.normal\(chips)!R_RESC1005X35N_100K!R165!.\chipsView.dat!!!!!!F79!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17629107@discrete.\r.normal\(chips)!R_RESC1005X35N_430!R156!.\chipsView.dat!!!!!!F78!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17630651@discrete.\r.normal\(chips)!R_RESC1005X35N_619!R158!.\chipsView.dat!!!!!!F77!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17634327@discrete.\r.normal\(chips)!R_RESC1005X35N_2.32K!R159!.\chipsView.dat!!!!!!F76!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17670294@discrete.\resistor.normal\(chips)!RESISTOR_RESC2012X65N_0R!R166!.\chipsView.dat!!!!!!F75!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17670404@discrete.\resistor.normal\(chips)!RESISTOR_RESC2012X65N_0R!R167!.\chipsView.dat!!!!!!F74!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17681035@discrete.\resistor.normal\(chips)!RESISTOR_RESC2012X65N_0R!R173!.\chipsView.dat!!!!!!F73!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17681091@discrete.\resistor.normal\(chips)!RESISTOR_RESC2012X65N_0R!R174!.\chipsView.dat!!!!!!F72!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17681184@discrete.\resistor.normal\(chips)!RESISTOR_RESC2012X65N_0R!R175!.\chipsView.dat!!!!!!F71!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17670821@discrete.\r.normal\(chips)!R_RESC1005X35N_100R!R168!.\chipsView.dat!!!!!!F70!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17671191@discrete.\r.normal\(chips)!R_RESC1005X35N_100R!R169!.\chipsView.dat!!!!!!F69!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17675071@discrete.\r.normal\(chips)!R_RESC1005X35N_49.9R!R170!.\chipsView.dat!!!!!!F68!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17675126@discrete.\r.normal\(chips)!R_RESC1005X35N_49.9R!R171!.\chipsView.dat!!!!!!F67!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17675158@discrete.\r.normal\(chips)!R_RESC1005X35N_10K!R172!.\chipsView.dat!!!!!!F66!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17681697@discrete.\r.normal\(chips)!R_RESC1005X35N_22R!R176!.\chipsView.dat!!!!!!F65!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17681710@discrete.\r.normal\(chips)!R_RESC1005X35N_22R!R177!.\chipsView.dat!!!!!!F64!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17681723@discrete.\r.normal\(chips)!R_RESC1005X35N_22R!R178!.\chipsView.dat!!!!!!F63!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17681736@discrete.\r.normal\(chips)!R_RESC1005X35N_22R!R179!.\chipsView.dat!!!!!!F62!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17681749@discrete.\r.normal\(chips)!R_RESC1005X35N_22R!R180!.\chipsView.dat!!!!!!F61!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17681762@discrete.\r.normal\(chips)!R_RESC1005X35N_22R!R181!.\chipsView.dat!!!!!!F60!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins213075@\pcie-nvme\.\r_0.normal\(chips)!R_0_SMR0201_200R1%!R23!.\chipsView.dat!!!!!!F59!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16880229@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_X_470R!R25!.\chipsView.dat!!!!!!F58!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16880237@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_X_470R!R29!.\chipsView.dat!!!!!!F57!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16880263@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_200K!R32!.\chipsView.dat!!!!!!F56!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17103532@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_200K!R39!.\chipsView.dat!!!!!!F55!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17102833@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_1.15K!R33!.\chipsView.dat!!!!!!F54!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17103129@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_1.15K!R34!.\chipsView.dat!!!!!!F53!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16880556@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_X_330R!R36!.\chipsView.dat!!!!!!F52!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122662@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_X_330R!R58!.\chipsView.dat!!!!!!F51!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins121190@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_X_330R!R74!.\chipsView.dat!!!!!!F50!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins121284@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_X_330R!R77!.\chipsView.dat!!!!!!F49!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins121332@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_X_330R!R79!.\chipsView.dat!!!!!!F48!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins121614@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_X_330R!R85!.\chipsView.dat!!!!!!F47!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17030619@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_X_330R!R86!.\chipsView.dat!!!!!!F46!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122026@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_1.82K!R40!.\chipsView.dat!!!!!!F45!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122058@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_1.82K!R41!.\chipsView.dat!!!!!!F44!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122074@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_1.82K!R42!.\chipsView.dat!!!!!!F43!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122090@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_1.82K!R43!.\chipsView.dat!!!!!!F42!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122106@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_1.82K!R44!.\chipsView.dat!!!!!!F41!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122122@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_1.82K!R45!.\chipsView.dat!!!!!!F40!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122138@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_1.82K!R46!.\chipsView.dat!!!!!!F39!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122158@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_1.82K!R47!.\chipsView.dat!!!!!!F38!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122190@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_1.82K!R48!.\chipsView.dat!!!!!!F37!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122206@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_1.82K!R49!.\chipsView.dat!!!!!!F36!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122222@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_1.82K!R50!.\chipsView.dat!!!!!!F35!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122238@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_1.82K!R51!.\chipsView.dat!!!!!!F34!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122254@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_1.82K!R52!.\chipsView.dat!!!!!!F33!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122270@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_1.82K!R53!.\chipsView.dat!!!!!!F32!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins122646@\pcie-nvme\.\resistor_1.normal\(chips)!RESISTOR_1_SMR0201_X_330R!R57!.\chipsView.dat!!!!!!F31!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins120858@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_X_5.1K!R61!.\chipsView.dat!!!!!!F30!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins120906@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_X_5.1K!R64!.\chipsView.dat!!!!!!F29!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins120922@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_X_5.1K!R65!.\chipsView.dat!!!!!!F28!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins120938@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_X_5.1K!R66!.\chipsView.dat!!!!!!F27!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17032395@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_X_5.1K!R69!.\chipsView.dat!!!!!!F26!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17032387@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_X_5.1K!R71!.\chipsView.dat!!!!!!F25!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17032403@discrete.\resistor.normal\(chips)!RESISTOR_SMR0201_X_5.1K!R72!.\chipsView.dat!!!!!!F24!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16777944@\pcie-nvme\.\switch_0.normal\(chips)!SWITCH_0_SW_TL3305AF160QG_X_SWPUSHBUTTON!S1!.\chipsView.dat!!!!!!F23!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16880492@\pcie-nvme\.\sst25wf010-40-5i-saf-t_0.normal\(chips)!SST25WF010-40-5I-SAF-T_0_SOIC8_AT25XE011-SSHN-T!U10!.\chipsView.dat!!!!!!F22!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins121874@\pcie-nvme\.\lsf0108t20-13_0.normal\(chips)!LSF0108T20-13_0_TSSOP20_LSF0108T20-13!U11!.\chipsView.dat!!!!!!F21!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16897958@\pcie-nvme\.\sn74axc8t245pwr_1.normal\(chips)!SN74AXC8T245PWR_1_TSSOP24_SN74AXC8T245PWR!U12!.\chipsView.dat!!!!!!F20!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16777981@\pcie-nvme\.\tcm811_0.normal\(chips)!TCM811_0_SOT143_APX811-29UG-7!U13!.\chipsView.dat!!!!!!F19!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17569469@\pcie-nvme\.\bu4s81/so_0.normal\(chips)!BU4S81/SO_0_SN74LVC1G08DBVR_FP_SN74LVC1G08DBVR!U14!.\chipsView.dat!!!!!!F18!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17298603@\pcie-nvme\.\bu4s81/so_0.normal\(chips)!BU4S81/SO_0_SN74LVC1G08DBVR_FP_SN74LVC1G08DBVR!U15!.\chipsView.dat!!!!!!F17!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17298376@\pcie-nvme\.\bu4s81/so_0.normal\(chips)!BU4S81/SO_0_SN74LVC1G08DBVR_FP_SN74LVC1G08DBVR!U16!.\chipsView.dat!!!!!!F16!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17298714@\pcie-nvme\.\bu4s81/so_0.normal\(chips)!BU4S81/SO_0_SN74LVC1G08DBVR_FP_SN74LVC1G08DBVR!U17!.\chipsView.dat!!!!!!F15!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17624540@\pci11414_kevin flores\.\okr-t6-w12-c_0.normal\(sch_1)!OKR-T6-W12-C_0_OKR-T6-C90_MUR_OKR-T6!U18!.\chipsView.dat!!!!!!F14!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17628733@\pci11414_kevin flores\.\okr-t6-w12-c_0.normal\(sch_1)!OKR-T6-W12-C_0_OKR-T6-C90_MUR_OKR-T6!U19!.\chipsView.dat!!!!!!F13!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17630316@\pci11414_kevin flores\.\okr-t6-w12-c_0.normal\(sch_1)!OKR-T6-W12-C_0_OKR-T6-C90_MUR_OKR-T6!U20!.\chipsView.dat!!!!!!F12!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17634306@\pci11414_kevin flores\.\okr-t6-w12-c_0.normal\(sch_1)!OKR-T6-W12-C_0_OKR-T6-C90_MUR_OKR-T6!U21!.\chipsView.dat!!!!!!F11!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17636519@\pci11414_kevin flores\.\sn74lvc1g07dbvt_0.normal\(sch_1)!SN74LVC1G07DBVT_0_DBV0005A_N_SN74LVC1G07DBV!U22!.\chipsView.dat!!!!!!F10!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17643070@\pci11414_kevin flores\.\sn74lvc1g07dbvt_0.normal\(sch_1)!SN74LVC1G07DBVT_0_DBV0005A_N_SN74LVC1G07DBV!U23!.\chipsView.dat!!!!!!F9!!!!!!!!!!!!!!!!!!
+S!!PCI11414_PCI11414CPMX_PCI11414!U24!!!!!!!TF-12!!!!!!!!!!!!!!!!!!
+S!!PCI11414_PCI11414CPMX_PCI11414!U24!!!!!!!TF-11!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17649266@discrete.\pci11414c.normal\(chips)!PCI11414_PCI11414CPMX_PCI11414!U24!.\chipsView.dat!!!!!!F8!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17649381@discrete.\pci11414a.normal\(chips)!PCI11414_PCI11414CPMX_PCI11414!U25!.\chipsView.dat!!!!!!F7!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17649507@discrete.\pci11414b.normal\(chips)!PCI11414_PCI11414CPMX_PCI11414!U25!.\chipsView.dat!!!!!!F6!!!!!!!!!!!!!!!!!!
+S!!PCI11414_PCI11414CPMX_PCI11414!U25!!!!!!!TF-7!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins135123@\pcie-nvme\.\pcie chip_1a.normal\(chips)!PCIE CHIP_1_PI7C9X3G816GP_FP_PI7C9X3G816!U9!.\chipsView.dat!!!!!!F5!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins16848324@\pcie-nvme\.\pcie chip_1b.normal\(chips)!PCIE CHIP_1_PI7C9X3G816GP_FP_PI7C9X3G816!U9!.\chipsView.dat!!!!!!F4!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins209459@\pcie-nvme\.\pcie chip_1c.normal\(chips)!PCIE CHIP_1_PI7C9X3G816GP_FP_PI7C9X3G816!U9!.\chipsView.dat!!!!!!F3!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins209015@\pcie-nvme\.\pcie chip_1d.normal\(chips)!PCIE CHIP_1_PI7C9X3G816GP_FP_PI7C9X3G816!U9!.\chipsView.dat!!!!!!F2!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins209248@\pcie-nvme\.\pcie chip_1e.normal\(chips)!PCIE CHIP_1_PI7C9X3G816GP_FP_PI7C9X3G816!U9!.\chipsView.dat!!!!!!F1!!!!!!!!!!!!!!!!!!
+S!@\pci11414_kevin flores\.\pcie switch\(sch_1):ins17677280@\pci11414_kevin flores\.\vxm7-9013-25m0000000_0.normal\(sch_1)!VXM7-9013-25M0000000_0_VXM7_MCH_XTAL_1-3_2-4GND!XTAL1!.\chipsView.dat!!!!!!F0!!!!!!!!!!!!!!!!!!
