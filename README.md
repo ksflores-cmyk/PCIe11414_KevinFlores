@@ -32,9 +32,15 @@ El diseño se basó en el esquemático de referencia de la tarjeta de evaluació
 * **Memoria de Configuración:** Memoria EEPROM I2C (AT24C64D) para almacenar la configuración de inicio del sistema.
 
 ## 📐 Esquemáticos y Diseño
-[Explica brevemente la arquitectura del circuito. Si tienes imágenes del diagrama esquemático o del diseño del PCB, puedes agregarlas aquí arrastrando la imagen al editor de GitHub].
+La arquitectura del circuito se fundamenta en el switch **PCI11414**, que funciona como el nodo central de comunicación. Este integrado gestiona el flujo de datos entre la interfaz **PCIe x4** de entrada (Upstream) y los diversos periféricos, incluyendo el controlador Ethernet **KSZ9131** y una ranura de expansión **PCIe x1** (Downstream).
 
-> **Nota:** Puedes ver los archivos fuente del diseño en la carpeta `PCI11414_Kevin Flores` de este repositorio.
+Para garantizar la estabilidad del sistema, se implementó una arquitectura de potencia de cuatro etapas que regula la entrada principal de **12V** hacia los rieles de **5V**, **3.3V**, **2.5V** y **1.1V** requeridos por los distintos núcleos del switch y el PHY de red. La integridad de la señal se mantiene mediante un buffer de reloj especializado y un cristal de **25 MHz** para la sincronización de datos.
+
+### Diagramas y Documentación Técnica
+> **Nota:** Todos los archivos técnicos, incluyendo las imágenes del esquemático completo y las capturas del diseño de la PCB (capas Top y Bottom), se encuentran disponibles en la carpeta `/[Nombre_de_tu_carpeta]` de este repositorio.
+
+* **Esquemático:** `[nombre_del_archivo].pdf`
+* **Layout de PCB:** `[nombre_del_archivo].png` o `.pdf`
 
 ## 👨‍💻 Autor
 Kevin Sebastian Flores López - Estudiante de Ingeniería Electrónica y Telecomunicaciones - https://github.com/ksflores-cmyk
