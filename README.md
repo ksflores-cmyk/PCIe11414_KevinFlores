@@ -1,6 +1,6 @@
 # ⚡ Proyecto Final - Electrónica 2: PCIe11414
 
-[![Estado del Proyecto](https://img.shields.io/badge/Estado-Finalizado-success)]()
+[![Estado del Proyecto](https://img.shields.io/badge/Estado-En_proceso-yellow)]()
 [![Curso](https://img.shields.io/badge/Curso-Electrónica_2-blue)]()
 
 ## 📖 Descripción General
