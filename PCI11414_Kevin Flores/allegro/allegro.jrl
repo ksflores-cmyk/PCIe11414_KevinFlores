@@ -4979,3 +4979,47 @@
 \i (03:01:49) xrefdes R153 
 \t (03:01:49) Can not select unplaced component R153.
 \t (03:01:49) Can not select unplaced component R153.
+\i (03:01:49) xrefdes C255 
+\t (03:01:49) Can not select unplaced component C255.
+\t (03:01:49) Can not select unplaced component C255.
+\i (03:01:49) xrefdes R149 
+\t (03:01:49) Can not select unplaced component R149.
+\t (03:01:49) Can not select unplaced component R149.
+\i (03:01:49) xrefdes C242 
+\t (03:01:49) Can not select unplaced component C242.
+\t (03:01:49) Can not select unplaced component C242.
+\i (03:01:49) xrefdes U14 
+\t (03:01:49) Can not select unplaced component U14.
+\t (03:01:49) Can not select unplaced component U14.
+\i (03:01:49) xrefdes C2017 
+\t (03:01:49) Can not select unplaced component C2017.
+\t (03:01:49) Can not select unplaced component C2017.
+\i (03:01:49) xname_flush 
+\i (03:01:49) done 
+\i (03:01:49) updateport SearchPane
+\i (03:01:49) shapeedit 
+\i (03:03:25) zoom in 1 
+\i (03:03:25) setwindow pcb
+\i (03:03:25) zoom in 66.9491 71.6102
+\i (03:03:25) trapsize 10593
+\i (03:03:26) zoom out 1 
+\i (03:03:26) setwindow pcb
+\i (03:03:26) zoom out 66.5254 70.7627
+\i (03:03:26) trapsize 21186
+\i (03:03:26) zoom in 1 
+\i (03:03:26) setwindow pcb
+\i (03:03:26) zoom in 63.9830 69.0678
+\i (03:03:26) trapsize 10593
+\i (03:03:27) zoom out 1 
+\i (03:03:27) setwindow pcb
+\i (03:03:27) zoom out 63.9830 69.0678
+\i (03:03:27) trapsize 21186
+\i (03:03:28) exit 
+\e (03:03:28) Do you want to save the changes you made to C:/USERS/KEVIN/DESKTOP/CARPETAS/ARCHIVOS DE LA U/CLASES/7MO SEMESTRE/ELECTRONICA 2 VICTOR/PCIE11414_KEVINFLORES/PCI11414_KEVIN FLORES/allegro/pci11414_kevin flores.brd?
+\i (03:03:32) fillin yes 
+\t (03:03:32) Lic Summary:
+[05:33:03.395825] Cdslmd servers:C:\Users\Kevin\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[05:33:03.920385] Feature usage summary:
+[05:33:03.920386] OrCAD_X_PCB_Professional_Plus  
+[05:33:03.920387] OrCAD_X_Professional_Plus  
+\t (03:03:33)     Journal end - Tue May 12 05:33:03 2026
