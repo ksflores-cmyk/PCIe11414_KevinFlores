@@ -8,7 +8,7 @@
 
   <br><br>
   
-  <!-- Reemplaza el enlace de abajo con la ruta de tu imagen -->
+
   <img src="images/logo.png" alt="Logo UNIS" width="350">
   
   <br><br>
@@ -44,6 +44,18 @@ El diseño se basó en el esquemático de referencia de la tarjeta de evaluació
 * **Gestión de Energía:** Red de reguladores de voltaje tipo Buck y LDO (ej. Módulos PM8/LV2 y OKR-T) para reducir los 12V principales a rieles de 5V, 3.3V, 2.5V y 1.1V.
 * **Sincronización (Relojes):** Cristal oscilador principal de 25 MHz (VXM7) y un Buffer de reloj de referencia PCIe de 2 canales (Microchip ZL40262LDF1).
 * **Memoria de Configuración:** Memoria EEPROM I2C (AT24C64D) para almacenar la configuración de inicio del sistema.
+
+## Diagrama de Bloques
+
+A continuación se presenta la arquitectura general y el flujo de datos del diseño:
+
+<div align="center">
+<br><br>
+  <img src="images/Diagrama de Bloques.png" alt="Diagrama de Bloques del Switch PCIe a NVMe" width="800">
+  
+  <br><br>
+  <em>Figura 1: Diagrama de bloques del sistema.</em>
+</div>
 
 ##  Esquemáticos y Diseño
 La arquitectura del circuito se fundamenta en el switch **PCI11414**, que funciona como el nodo central de comunicación. Este integrado gestiona el flujo de datos entre la interfaz **PCIe x4** de entrada (Upstream) y los diversos periféricos, incluyendo el controlador Ethernet **KSZ9131** y una ranura de expansión **PCIe x1** (Downstream).
