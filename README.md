@@ -1,4 +1,4 @@
-# Proyecto Final de Electrónica 2 y Diseño Electrónico 1 - PCIe to NVMe M.2 SSD Switch
+# Proyecto Final de Electrónica 2 y Diseño Electrónico 1 - PCIe11414 NIC 
 
 <div align="center">
   <em>Universidad del Istmo de Guatemala</em><br>
