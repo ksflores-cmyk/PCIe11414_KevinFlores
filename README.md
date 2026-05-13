@@ -28,7 +28,7 @@ Este repositorio contiene el diseño a nivel de hardware de una tarjeta de red (
   * Diseñar la red de distribución de energía (PDN) para adaptar los 12V de entrada a los voltajes de operación internos requeridos (5V, 3.3V, 2.5V y 1.1V).
   * Generar la documentación y los archivos de fabricación (Gerbers) correspondientes al diseño final.
 
-## 🛠️ Hardware y Componentes Utilizados
+##  Hardware y Componentes Utilizados
 El diseño se basó en el esquemático de referencia de la tarjeta de evaluación EVB-PCI11414 de Microchip, utilizando componentes de montaje superficial (SMD) enfocados en telecomunicaciones de alta velocidad. A continuación, se detallan los componentes clave:
 
 **Software de Diseño:**
