@@ -1,12 +1,26 @@
-# ⚡ Proyecto Final - Electrónica 2: PCIe11414
+# Proyecto Final de Electrónica 2 y Diseño Electrónico 1 - PCIe11414 NIC 
 
-[![Estado del Proyecto](https://img.shields.io/badge/Estado-En_proceso-yellow)]()
-[![Curso](https://img.shields.io/badge/Curso-Electrónica_2-blue)]()
+<div align="center">
+  <em>Universidad del Istmo de Guatemala</em><br>
+  <em>Facultad de Ingeniería</em><br>
+  <em>Proyecto Final</em><br>
+  <em>Electrónica 2 y Diseño Electrónico 1</em>
 
-## 📖 Descripción General
-Este repositorio contiene el diseño completo a nivel de hardware de una tarjeta de red (NIC) con conexión PCIe. Desarrollado íntegramente en OrCAD, el proyecto documenta el proceso de ingeniería que incluye la selección de componentes, el diseño del esquemático y el layout de la PCB. Se prestó especial atención al enrutamiento de señales diferenciales y al cumplimiento de los estándares físicos que requiere el protocolo PCI Express.
+  <br><br>
+  
+  <!-- Reemplaza el enlace de abajo con la ruta de tu imagen -->
+  <img src="https://es.wikipedia.org/wiki/Archivo:Escudo-UNIS.png" alt="Logo UNIS" width="350">
+  
+  <br><br>
 
-## 🎯 Objetivos
+  <em>Kevin Flores</em><br>
+  <em>Mayo de 2026</em>
+</div>
+
+##  Descripción General
+Este repositorio contiene el diseño a nivel de hardware de una tarjeta de red (NIC) con conexión PCIe. Desarrollado íntegramente en OrCAD, el proyecto documenta el proceso de ingeniería que incluye la selección de componentes, el diseño del esquemático y el layout de la PCB. Se prestó especial atención al enrutamiento de señales diferenciales y al cumplimiento de los estándares físicos que requiere el protocolo PCI Express.
+
+##  Objetivos
 * **Principal:** Diseñar a nivel de hardware (captura esquemática y layout de PCB) una Tarjeta de Interfaz de Red (NIC) y Hub basada en el switch PCI Express **PCI11414**, utilizando la suite de OrCAD y cumpliendo con los requerimientos técnicos del curso de Electrónica 2.
 * **Específicos:**
   * Desarrollar el diagrama esquemático completo asegurando la interconexión entre el bus PCIe (Upstream x4), el switch PCI11414 y el transceptor Ethernet Gigabit (PHY) KSZ9131.
@@ -31,7 +45,7 @@ El diseño se basó en el esquemático de referencia de la tarjeta de evaluació
 * **Sincronización (Relojes):** Cristal oscilador principal de 25 MHz (VXM7) y un Buffer de reloj de referencia PCIe de 2 canales (Microchip ZL40262LDF1).
 * **Memoria de Configuración:** Memoria EEPROM I2C (AT24C64D) para almacenar la configuración de inicio del sistema.
 
-## 📐 Esquemáticos y Diseño
+##  Esquemáticos y Diseño
 La arquitectura del circuito se fundamenta en el switch **PCI11414**, que funciona como el nodo central de comunicación. Este integrado gestiona el flujo de datos entre la interfaz **PCIe x4** de entrada (Upstream) y los diversos periféricos, incluyendo el controlador Ethernet **KSZ9131** y una ranura de expansión **PCIe x1** (Downstream).
 
 Para garantizar la estabilidad del sistema, se implementó una arquitectura de potencia de cuatro etapas que regula la entrada principal de **12V** hacia los rieles de **5V**, **3.3V**, **2.5V** y **1.1V** requeridos por los distintos núcleos del switch y el PHY de red. La integridad de la señal se mantiene mediante un buffer de reloj especializado y un cristal de **25 MHz** para la sincronización de datos.
@@ -40,5 +54,5 @@ Para garantizar la estabilidad del sistema, se implementó una arquitectura de p
 > **Nota:** Todos los archivos técnicos, incluyendo las imágenes del esquemático completo y las capturas del diseño de la PCB, se encuentran disponibles en la carpeta `/[Design]` de este repositorio.
 
 
-## 👨‍💻 Autor
+##  Autor
 Kevin Sebastian Flores López - Estudiante de Ingeniería Electrónica y Telecomunicaciones - https://github.com/ksflores-cmyk
