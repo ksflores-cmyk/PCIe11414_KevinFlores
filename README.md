@@ -71,7 +71,7 @@ Para garantizar la estabilidad del sistema, se implementó una arquitectura de p
 <br><br>
   <img src="images/pci.png" alt="Esquemático de Conexiones - PCI11414" width="800">
   
-  <br><br>
+  <br>
   <em>Diagrama esquemático de conexiones para el IC PCI11414.</em>
   
 ### Diagramas y Documentación Técnica
