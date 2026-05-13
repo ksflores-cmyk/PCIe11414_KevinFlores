@@ -33,11 +33,11 @@ El diseño se basó en el esquemático de referencia de la tarjeta de evaluació
 
 **Software de Diseño:**
 * **Cadence OrCAD Capture:** Para la creación y jerarquización del diagrama esquemático.
-    <br><br>
+    <br>
   <img src="images/logopac.png" alt="Cadence OrCAD Capture" width="50">
   <br><br>
 * **Cadence Allegro PCB Editor:** Para el ruteo de pistas, manejo de capas y generación del layout.
-    <br><br>
+    <br>
   <img src="images/logopcb.png" alt="Cadence Allegro PCB Editor" width="50">
   <br><br>
 
@@ -59,7 +59,7 @@ A continuación se presenta la arquitectura general y el flujo de datos del dise
 <br>
   <img src="images/Diagrama de Bloques.png" alt="Diagrama de Bloques del Switch PCIe a NVMe" width="800">
   
-  <br><br>
+  <br>
   <em>Diagrama de bloques del sistema.</em>
 </div>
 
