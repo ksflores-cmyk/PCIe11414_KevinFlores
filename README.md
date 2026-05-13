@@ -34,7 +34,7 @@ El diseño se basó en el esquemático de referencia de la tarjeta de evaluació
 **Software de Diseño:**
 * **OrCAD Capture:** Para la creación y jerarquización del diagrama esquemático.
     <br><br>
-  <img src="images/logocap" alt="Cadence OrCAD Capture" width="50">
+  <img src="images/logopac" alt="Cadence OrCAD Capture" width="50">
   <br><br>
 * **OrCAD PCB Designer:** Para el ruteo de pistas, manejo de capas y generación del layout.
     <br><br>
