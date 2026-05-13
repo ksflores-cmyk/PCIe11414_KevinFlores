@@ -51,7 +51,7 @@ A continuación se presenta la arquitectura general y el flujo de datos del dise
 
 <div align="center">
 <br><br>
-  <img src="Diagrama De Bloques.png" alt="Diagrama de Bloques del Switch PCIe a NVMe" width="800">
+  <img src="images/Diagrama de Bloques.png" alt="Diagrama de Bloques del Switch PCIe a NVMe" width="800">
   
   <br><br>
   <em>Figura 1: Diagrama de bloques del sistema.</em>
