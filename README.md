@@ -56,7 +56,7 @@ El diseño se basó en el esquemático de referencia de la tarjeta de evaluació
 A continuación se presenta la arquitectura general y el flujo de datos del diseño:
 
 <div align="center">
-<br><br>
+<br>
   <img src="images/Diagrama de Bloques.png" alt="Diagrama de Bloques del Switch PCIe a NVMe" width="800">
   
   <br><br>
