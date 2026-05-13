@@ -60,7 +60,7 @@ A continuación se presenta la arquitectura general y el flujo de datos del dise
   <img src="images/Diagrama de Bloques.png" alt="Diagrama de Bloques del Switch PCIe a NVMe" width="800">
   
   <br><br>
-  <em>Figura 1: Diagrama de bloques del sistema.</em>
+  <em>Diagrama de bloques del sistema.</em>
 </div>
 
 ##  Esquemáticos y Diseño
@@ -71,7 +71,7 @@ Para garantizar la estabilidad del sistema, se implementó una arquitectura de p
   <img src="images/pci.png" alt="Esquemático de Conexiones - PCI11414" width="800">
   
   <br><br>
-  <em>Figura 1: Diagrama esquemático de conexiones para el IC PCI11414.</em>
+  <em>Diagrama esquemático de conexiones para el IC PCI11414.</em>
   
 ### Diagramas y Documentación Técnica
 > **Nota:** Todos los archivos técnicos, incluyendo las imágenes del esquemático completo y las capturas del diseño de la PCB, se encuentran disponibles en la carpeta `/[ESQUEMATICO]` de este repositorio.
