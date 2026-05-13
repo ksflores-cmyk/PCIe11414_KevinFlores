@@ -9,7 +9,7 @@
   <br><br>
   
   <!-- Reemplaza el enlace de abajo con la ruta de tu imagen -->
-  <img src="https://es.wikipedia.org/wiki/Archivo:Escudo-UNIS.png" alt="Logo UNIS" width="350">
+  <img src="images/logo.png" alt="Logo UNIS" width="350">
   
   <br><br>
 
