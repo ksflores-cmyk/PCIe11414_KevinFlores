@@ -73,7 +73,7 @@ Para garantizar la estabilidad del sistema, se implementó una arquitectura de p
   
   <br>
   <em>Diagrama esquemático de conexiones para el IC PCI11414.</em>
-  
+ </div> 
 <br><br>
 > **Nota:** Todos los archivos técnicos, incluyendo las imágenes del esquemático completo y las capturas del diseño de la PCB, se encuentran disponibles en la carpeta `/[ESQUEMATICO]` de este repositorio.
 
