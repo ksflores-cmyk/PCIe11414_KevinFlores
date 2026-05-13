@@ -9,7 +9,7 @@
   <br><br>
   
 
-  <img src="images/logo.png" alt="Logo UNIS" width="350">
+  <img src="images/logo.png" alt="Logo UNIS" width="250">
   
   <br><br>
 
@@ -28,16 +28,16 @@ Este repositorio contiene el diseño a nivel de hardware de una tarjeta de red (
   * Diseñar la red de distribución de energía (PDN) para adaptar los 12V de entrada a los voltajes de operación internos requeridos (5V, 3.3V, 2.5V y 1.1V).
   * Generar la documentación y los archivos de fabricación (Gerbers) correspondientes al diseño final.
 
-## 🛠️ Hardware y Componentes Utilizados
+##  Hardware y Componentes Utilizados
 El diseño se basó en el esquemático de referencia de la tarjeta de evaluación EVB-PCI11414 de Microchip, utilizando componentes de montaje superficial (SMD) enfocados en telecomunicaciones de alta velocidad. A continuación, se detallan los componentes clave:
 
 **Software de Diseño:**
 * **Cadence OrCAD Capture:** Para la creación y jerarquización del diagrama esquemático.
-    <br><br>
+    <br>
   <img src="images/logopac.png" alt="Cadence OrCAD Capture" width="50">
   <br><br>
 * **Cadence Allegro PCB Editor:** Para el ruteo de pistas, manejo de capas y generación del layout.
-    <br><br>
+    <br>
   <img src="images/logopcb.png" alt="Cadence Allegro PCB Editor" width="50">
   <br><br>
 
@@ -56,21 +56,27 @@ El diseño se basó en el esquemático de referencia de la tarjeta de evaluació
 A continuación se presenta la arquitectura general y el flujo de datos del diseño:
 
 <div align="center">
-<br><br>
+<br>
   <img src="images/Diagrama de Bloques.png" alt="Diagrama de Bloques del Switch PCIe a NVMe" width="800">
   
-  <br><br>
-  <em>Figura 1: Diagrama de bloques del sistema.</em>
+  <br>
+  <em>Diagrama de bloques del sistema.</em>
 </div>
 
 ##  Esquemáticos y Diseño
 La arquitectura del circuito se fundamenta en el switch **PCI11414**, que funciona como el nodo central de comunicación. Este integrado gestiona el flujo de datos entre la interfaz **PCIe x4** de entrada (Upstream) y los diversos periféricos, incluyendo el controlador Ethernet **KSZ9131** y una ranura de expansión **PCIe x1** (Downstream).
 
 Para garantizar la estabilidad del sistema, se implementó una arquitectura de potencia de cuatro etapas que regula la entrada principal de **12V** hacia los rieles de **5V**, **3.3V**, **2.5V** y **1.1V** requeridos por los distintos núcleos del switch y el PHY de red. La integridad de la señal se mantiene mediante un buffer de reloj especializado y un cristal de **25 MHz** para la sincronización de datos.
+<div align="center">
+<br><br>
+  <img src="images/pci.png" alt="Esquemático de Conexiones - PCI11414" width="800">
+  
+  <br>
+  <em>Diagrama esquemático de conexiones para el IC PCI11414.</em>
 
-### Diagramas y Documentación Técnica
+<br><br>
 > **Nota:** Todos los archivos técnicos, incluyendo las imágenes del esquemático completo y las capturas del diseño de la PCB, se encuentran disponibles en la carpeta `/[ESQUEMATICO]` de este repositorio.
-
+ </div> 
 
 ##  Autor
 Kevin Sebastian Flores López - Estudiante de Ingeniería Electrónica y Telecomunicaciones - https://github.com/ksflores-cmyk
