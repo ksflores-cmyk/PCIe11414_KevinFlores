@@ -32,11 +32,11 @@ Este repositorio contiene el diseño a nivel de hardware de una tarjeta de red (
 El diseño se basó en el esquemático de referencia de la tarjeta de evaluación EVB-PCI11414 de Microchip, utilizando componentes de montaje superficial (SMD) enfocados en telecomunicaciones de alta velocidad. A continuación, se detallan los componentes clave:
 
 **Software de Diseño:**
-* **OrCAD Capture:** Para la creación y jerarquización del diagrama esquemático.
+* **Cadence OrCAD Capture:** Para la creación y jerarquización del diagrama esquemático.
     <br><br>
   <img src="images/logopac.png" alt="Cadence OrCAD Capture" width="50">
   <br><br>
-* **OrCAD PCB Designer:** Para el ruteo de pistas, manejo de capas y generación del layout.
+* **Cadence Allegro PCB Editor:** Para el ruteo de pistas, manejo de capas y generación del layout.
     <br><br>
   <img src="images/logopcb.png" alt="Cadence Allegro PCB Editor" width="50">
   <br><br>
