@@ -67,7 +67,12 @@ A continuación se presenta la arquitectura general y el flujo de datos del dise
 La arquitectura del circuito se fundamenta en el switch **PCI11414**, que funciona como el nodo central de comunicación. Este integrado gestiona el flujo de datos entre la interfaz **PCIe x4** de entrada (Upstream) y los diversos periféricos, incluyendo el controlador Ethernet **KSZ9131** y una ranura de expansión **PCIe x1** (Downstream).
 
 Para garantizar la estabilidad del sistema, se implementó una arquitectura de potencia de cuatro etapas que regula la entrada principal de **12V** hacia los rieles de **5V**, **3.3V**, **2.5V** y **1.1V** requeridos por los distintos núcleos del switch y el PHY de red. La integridad de la señal se mantiene mediante un buffer de reloj especializado y un cristal de **25 MHz** para la sincronización de datos.
-
+<br><br>
+  <img src="images/pci.png" alt="Esquemático de Conexiones - PCI11414" width="800">
+  
+  <br><br>
+  <em>Figura 1: Diagrama esquemático de conexiones para el IC PCI11414.</em>
+  
 ### Diagramas y Documentación Técnica
 > **Nota:** Todos los archivos técnicos, incluyendo las imágenes del esquemático completo y las capturas del diseño de la PCB, se encuentran disponibles en la carpeta `/[ESQUEMATICO]` de este repositorio.
 
